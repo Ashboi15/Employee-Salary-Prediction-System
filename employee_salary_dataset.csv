@@ -1,0 +1,2521 @@
+Age,Education,Experience,SkillsScore,Certifications,JobRole,CompanyType,Salary
+59,High School,16,47.0,0,Manager,Government,142121
+49,Master,23,72.0,0,HR,MNC,174443
+35,Master,33,92.0,7,Data Scientist,MNC,270842
+28,Master,27,46.0,1,Software Engineer,Startup,181712
+41,Master,21,77.0,0,Software Engineer,MNC,183521
+59,Bachelor,16,60.0,7,Data Analyst,MNC,175412
+39,PhD,33,47.0,3,Data Scientist,MNC,236126
+43,High School,5,90.0,2,Manager,MNC,157156
+31,Master,5,93.0,3,Manager,MNC,185567
+31,Master,33,60.0,4,DevOps Engineer,Startup,225922
+44,Bachelor,0,95.0,0,Data Scientist,Startup,147264
+56,PhD,9,59.0,0,Manager,MNC,184673
+44,Master,20,47.0,2,Data Analyst,MNC,164979
+23,Bachelor,4,97.0,5,HR,Startup,151162
+42,High School,1,,0,Software Engineer,Government,114271
+22,High School,21,70.0,1,Data Scientist,Startup,161107
+44,Master,1,89.0,6,Software Engineer,Government,172323
+50,Master,9,96.0,0,HR,MNC,165379
+58,PhD,33,68.0,6,Data Scientist,MNC,265089
+22,PhD,15,87.0,3,HR,Startup,176065
+41,Master,21,48.0,9,Manager,MNC,219408
+53,Bachelor,11,54.0,5,Manager,Government,161152
+32,PhD,23,69.0,7,Manager,Government,232262
+42,Master,9,65.0,8,HR,Startup,160528
+45,PhD,34,49.0,5,HR,Government,208570
+47,Master,31,68.0,8,HR,Startup,214797
+48,High School,6,93.0,3,Software Engineer,Startup,151860
+36,Master,20,55.0,5,HR,Government,161962
+35,High School,19,75.0,7,Manager,Government,201474
+23,PhD,25,59.0,8,Data Analyst,Government,203147
+57,Master,3,84.0,2,HR,Government,143684
+27,PhD,21,93.0,1,Data Analyst,Government,195662
+41,High School,14,76.0,5,Manager,Government,169983
+29,Master,20,61.0,3,HR,Government,165117
+59,PhD,14,46.0,0,Software Engineer,MNC,163766
+38,High School,21,62.0,7,Software Engineer,Startup,179326
+24,PhD,27,80.0,8,Data Analyst,Startup,228372
+45,Bachelor,13,79.0,8,DevOps Engineer,Government,192118
+34,High School,26,68.0,1,Software Engineer,Startup,161834
+29,High School,27,55.0,8,Software Engineer,Government,181984
+46,High School,25,77.0,6,Software Engineer,MNC,207378
+22,Master,1,67.0,4,Manager,Startup,143352
+40,Master,24,87.0,6,Software Engineer,Startup,221979
+48,Master,2,77.0,8,Data Scientist,MNC,185238
+27,Bachelor,7,70.0,7,HR,MNC,140791
+28,Bachelor,32,53.0,5,Software Engineer,MNC,205648
+55,High School,34,92.0,3,DevOps Engineer,Startup,222904
+34,Bachelor,5,72.0,0,DevOps Engineer,Startup,134687
+37,PhD,22,96.0,5,Software Engineer,MNC,228168
+56,High School,24,48.0,2,Software Engineer,MNC,171225
+24,High School,18,96.0,5,Data Scientist,MNC,196434
+22,PhD,4,66.0,5,Software Engineer,MNC,169538
+26,High School,10,63.0,3,Software Engineer,MNC,140449
+24,Bachelor,11,52.0,1,HR,Government,125268
+49,Master,9,65.0,8,DevOps Engineer,MNC,187201
+38,PhD,7,68.0,1,Data Scientist,Government,179170
+46,Bachelor,23,90.0,2,DevOps Engineer,Startup,195234
+54,PhD,27,88.0,9,Data Scientist,Startup,254983
+30,PhD,20,82.0,0,DevOps Engineer,Government,198425
+56,High School,7,67.0,6,Software Engineer,MNC,149597
+34,High School,8,67.0,0,DevOps Engineer,Startup,120259
+51,Bachelor,14,47.0,8,DevOps Engineer,MNC,167157
+35,PhD,17,62.0,0,Data Scientist,MNC,188851
+28,High School,19,68.0,4,Data Analyst,Government,154489
+34,,5,44.0,6,Data Scientist,Startup,130966
+43,PhD,11,81.0,2,Data Scientist,Startup,195152
+41,Bachelor,1,46.0,8,Data Scientist,Government,147639
+36,Bachelor,6,81.0,7,Manager,MNC,186927
+38,PhD,15,75.0,2,Manager,MNC,218534
+44,Bachelor,2,80.0,4,Manager,Startup,158624
+46,High School,2,66.0,6,Data Scientist,Government,130935
+45,PhD,26,97.0,3,Data Analyst,Government,234322
+49,High School,32,85.0,4,Data Scientist,MNC,222869
+35,Master,27,41.0,2,Software Engineer,MNC,184327
+21,Master,0,64.0,8,Data Analyst,Government,131712
+45,Bachelor,7,48.0,9,Manager,Startup,163564
+27,Master,31,92.0,8,DevOps Engineer,MNC,258506
+29,High School,3,66.0,6,DevOps Engineer,Government,127942
+44,Master,29,40.0,9,HR,Government,198136
+21,High School,5,62.0,1,Data Analyst,Government,109008
+28,Bachelor,18,49.0,6,Manager,Startup,175398
+44,Bachelor,31,81.0,6,Data Analyst,MNC,210612
+31,High School,8,91.0,4,Data Analyst,MNC,159583
+37,Master,11,64.0,8,DevOps Engineer,MNC,187932
+28,Bachelor,10,93.0,2,Data Scientist,Startup,174331
+55,PhD,15,42.0,3,Software Engineer,MNC,181083
+55,Bachelor,0,45.0,0,HR,MNC,88660
+53,Master,20,97.0,5,Manager,MNC,242829
+25,PhD,29,45.0,3,Data Analyst,MNC,210597
+59,Master,12,,0,HR,Startup,155523
+48,High School,33,41.0,1,Data Analyst,Government,171002
+27,PhD,3,97.0,2,DevOps Engineer,Government,176360
+29,Master,27,97.0,8,Software Engineer,MNC,235188
+28,PhD,30,57.0,7,DevOps Engineer,MNC,249155
+32,Master,26,62.0,6,HR,MNC,199750
+54,PhD,4,41.0,3,Manager,Startup,161109
+53,Master,24,51.0,0,Data Analyst,MNC,163146
+43,High School,2,61.0,7,Software Engineer,Startup,129883
+44,PhD,32,76.0,3,DevOps Engineer,MNC,245952
+57,PhD,3,59.0,2,HR,MNC,148835
+55,PhD,24,78.0,8,DevOps Engineer,Government,242040
+42,PhD,19,63.0,9,Data Analyst,MNC,210696
+47,High School,33,87.0,3,Data Analyst,Startup,204323
+55,PhD,25,59.0,3,Manager,Government,219299
+21,Bachelor,4,40.0,8,Software Engineer,Startup,131767
+55,High School,34,40.0,1,Data Scientist,Government,195673
+57,Bachelor,27,56.0,4,DevOps Engineer,Startup,190037
+34,PhD,28,98.0,3,Data Analyst,Government,238419
+23,Master,8,,8,HR,Startup,137784
+21,Bachelor,5,92.0,4,DevOps Engineer,Startup,168042
+25,PhD,18,91.0,8,Manager,MNC,243011
+46,Bachelor,10,84.0,8,Manager,Government,194252
+34,PhD,1,69.0,1,Data Analyst,Government,143374
+59,PhD,8,80.0,8,Data Analyst,MNC,198279
+47,PhD,20,86.0,2,Data Analyst,Startup,202152
+29,Master,23,42.0,3,Data Scientist,Startup,173400
+35,Bachelor,33,85.0,0,Data Analyst,Government,206718
+35,High School,21,94.0,0,DevOps Engineer,Startup,171129
+46,High School,2,50.0,0,DevOps Engineer,Government,95047
+33,High School,11,63.0,8,Software Engineer,Government,147964
+52,High School,27,61.0,7,HR,Startup,174064
+59,PhD,29,83.0,4,Data Analyst,Startup,220777
+52,Bachelor,25,84.0,4,DevOps Engineer,Startup,206647
+24,Bachelor,20,65.0,8,DevOps Engineer,MNC,197431
+50,Master,27,52.0,2,DevOps Engineer,Government,204086
+57,Bachelor,25,40.0,2,Data Scientist,Startup,174341
+43,Bachelor,32,63.0,6,HR,MNC,203944
+59,Bachelor,20,49.0,8,Manager,Startup,186894
+35,Master,34,74.0,5,DevOps Engineer,Government,240218
+49,High School,33,63.0,1,Data Analyst,MNC,176686
+56,Bachelor,17,67.0,0,DevOps Engineer,Government,164819
+33,Master,10,75.0,1,HR,Startup,142102
+52,Master,22,55.0,0,Manager,Startup,184682
+27,PhD,21,79.0,9,Data Scientist,Startup,237635
+42,Master,16,55.0,9,Software Engineer,MNC,198033
+48,High School,4,98.0,8,Data Analyst,MNC,164046
+22,Bachelor,10,56.0,9,Software Engineer,MNC,159353
+26,Master,29,90.0,7,Data Scientist,MNC,250700
+48,High School,14,93.0,6,HR,Startup,158323
+48,Master,26,54.0,2,HR,Startup,169073
+40,Master,34,55.0,7,Data Scientist,Startup,220251
+50,Master,32,54.0,1,DevOps Engineer,MNC,209649
+31,Master,19,96.0,1,Data Scientist,MNC,219784
+48,Master,15,73.0,9,Data Analyst,Startup,186820
+45,High School,33,50.0,2,Manager,Startup,193848
+59,Bachelor,1,40.0,6,Software Engineer,MNC,131424
+53,Bachelor,34,54.0,0,Software Engineer,Government,202216
+21,Bachelor,27,65.0,7,HR,Startup,180167
+47,Bachelor,5,90.0,6,DevOps Engineer,Startup,159864
+33,High School,8,43.0,3,HR,Startup,91083
+23,PhD,19,82.0,4,Data Analyst,MNC,211529
+59,PhD,0,44.0,9,Data Scientist,Startup,164088
+26,High School,7,74.0,0,Software Engineer,Startup,125573
+28,High School,22,52.0,3,Data Analyst,Startup,143048
+47,Master,2,49.0,0,HR,Startup,97194
+29,Master,3,50.0,0,HR,Startup,105805
+57,Master,24,57.0,9,Software Engineer,Government,209825
+53,,14,73.0,0,HR,Government,149798
+44,Master,20,78.0,6,DevOps Engineer,Startup,202927
+35,PhD,34,80.0,6,HR,Startup,242033
+52,Bachelor,13,81.0,3,Manager,Startup,179611
+52,Master,11,89.0,1,Data Scientist,Startup,174700
+44,Bachelor,16,62.0,2,HR,MNC,155537
+32,PhD,8,46.0,7,Manager,MNC,182000
+59,Master,34,98.0,7,Data Analyst,MNC,242078
+22,PhD,12,78.0,5,HR,Government,179567
+23,PhD,14,42.0,9,DevOps Engineer,Startup,186558
+57,PhD,17,51.0,8,Data Analyst,MNC,189254
+37,Master,32,46.0,8,HR,Startup,192259
+22,High School,5,88.0,3,Software Engineer,Startup,138059
+22,Master,26,,0,Manager,Government,207507
+48,PhD,22,72.0,0,Manager,Government,213833
+43,Master,26,76.0,9,Software Engineer,MNC,226409
+57,,33,87.0,4,Data Scientist,MNC,262515
+52,High School,13,,1,DevOps Engineer,Government,141368
+53,Bachelor,7,41.0,5,Manager,Government,154840
+21,High School,34,80.0,6,Data Analyst,Startup,197368
+39,High School,18,46.0,0,DevOps Engineer,Startup,143328
+22,Bachelor,29,71.0,5,Manager,MNC,220027
+46,Master,13,43.0,7,Data Scientist,MNC,184590
+52,Bachelor,19,59.0,4,Data Analyst,Government,153287
+26,Master,24,89.0,6,DevOps Engineer,MNC,240287
+52,Master,23,92.0,9,Data Analyst,Startup,223805
+24,,13,75.0,5,Software Engineer,Government,198347
+31,PhD,25,71.0,3,HR,Startup,202477
+37,Bachelor,22,67.0,6,Software Engineer,Government,181543
+58,High School,21,52.0,9,DevOps Engineer,Government,188496
+44,Bachelor,18,40.0,8,HR,Startup,137019
+25,Master,2,99.0,9,Software Engineer,MNC,176975
+54,PhD,18,95.0,9,HR,MNC,230492
+26,Bachelor,8,74.0,6,Manager,MNC,186245
+42,Bachelor,27,87.0,4,Data Analyst,MNC,204857
+31,PhD,19,69.0,6,HR,Startup,179954
+36,PhD,6,93.0,2,Manager,Government,195920
+53,PhD,13,75.0,1,Data Scientist,Startup,187818
+29,Master,8,96.0,4,Software Engineer,MNC,177916
+26,PhD,18,94.0,3,Data Scientist,MNC,225042
+36,High School,13,64.0,4,DevOps Engineer,Startup,144322
+49,Bachelor,16,55.0,7,Manager,Government,192326
+23,PhD,29,97.0,3,Data Scientist,Startup,241053
+40,PhD,8,58.0,8,Data Scientist,Startup,177102
+56,Master,32,40.0,6,Manager,Startup,225653
+39,Master,24,44.0,9,Data Analyst,Government,194465
+46,Bachelor,13,90.0,6,HR,Startup,167586
+23,High School,10,61.0,7,DevOps Engineer,Startup,142103
+39,Bachelor,34,63.0,5,DevOps Engineer,MNC,215335
+40,PhD,13,82.0,7,Software Engineer,Startup,204049
+52,High School,29,84.0,2,HR,MNC,191696
+27,High School,3,91.0,9,Software Engineer,MNC,167630
+53,High School,3,76.0,9,DevOps Engineer,MNC,164869
+59,High School,27,92.0,0,HR,Government,180764
+38,Bachelor,7,75.0,5,Data Scientist,MNC,175506
+21,Master,1,75.0,0,Data Analyst,Startup,121509
+31,Master,21,43.0,8,Data Scientist,Startup,184794
+48,PhD,15,75.0,1,Data Analyst,MNC,177789
+45,Master,28,91.0,1,Manager,MNC,237338
+43,Master,29,92.0,6,Software Engineer,Startup,225250
+51,Master,11,57.0,1,Software Engineer,MNC,145933
+50,Master,34,89.0,9,Manager,Government,262963
+55,PhD,10,55.0,7,HR,MNC,159629
+27,Bachelor,20,80.0,5,Manager,Government,208563
+36,High School,20,57.0,6,DevOps Engineer,Government,182243
+46,Master,4,61.0,6,Manager,Government,157558
+22,Bachelor,19,41.0,5,Data Analyst,MNC,161935
+21,Master,2,60.0,9,DevOps Engineer,Government,161342
+32,,32,75.0,8,Manager,Government,245149
+25,High School,8,83.0,8,Software Engineer,MNC,168078
+57,High School,8,78.0,6,Data Scientist,Government,172081
+52,High School,3,86.0,8,Data Analyst,MNC,156596
+29,Master,34,78.0,9,Data Analyst,Startup,226460
+55,Master,16,68.0,2,HR,Government,158012
+39,Master,33,93.0,2,Data Scientist,MNC,247433
+36,High School,23,65.0,0,Data Analyst,Startup,152135
+23,PhD,31,60.0,4,Manager,Government,232223
+40,Bachelor,0,56.0,3,Data Analyst,Government,98937
+44,PhD,7,55.0,1,Data Analyst,MNC,152879
+53,Master,22,99.0,8,Data Analyst,Startup,204599
+44,,11,70.0,2,HR,MNC,162364
+31,PhD,11,90.0,7,Data Analyst,Government,186839
+28,Master,14,48.0,5,Data Analyst,Government,143752
+56,Bachelor,18,70.0,4,HR,Government,160613
+58,Master,25,53.0,0,DevOps Engineer,Government,188355
+40,Bachelor,28,88.0,3,Data Scientist,Startup,221582
+55,PhD,21,76.0,2,DevOps Engineer,Startup,216135
+45,PhD,20,41.0,0,Software Engineer,MNC,169126
+55,Master,19,91.0,4,HR,MNC,192527
+45,Bachelor,28,87.0,5,HR,MNC,214656
+49,Master,3,85.0,1,Data Analyst,Government,141521
+38,High School,6,53.0,2,Data Analyst,MNC,120433
+38,High School,27,98.0,5,Software Engineer,Startup,197473
+22,High School,27,72.0,3,Data Analyst,MNC,178982
+55,High School,3,74.0,8,Manager,MNC,163193
+36,Master,21,97.0,4,Data Analyst,Startup,206266
+56,High School,11,78.0,3,Data Analyst,Startup,133693
+53,Bachelor,2,97.0,1,Manager,Government,160395
+24,PhD,21,86.0,5,Software Engineer,Startup,224454
+53,PhD,1,90.0,9,Manager,Startup,195337
+34,High School,23,59.0,1,HR,MNC,152972
+41,High School,33,41.0,6,Manager,Startup,207880
+40,High School,26,90.0,2,Data Scientist,Government,204317
+28,Master,0,80.0,8,HR,MNC,150934
+27,PhD,7,58.0,4,Data Analyst,Government,163848
+23,High School,22,98.0,7,HR,Startup,179830
+37,,5,76.0,5,Software Engineer,Government,154345
+53,High School,21,57.0,9,Software Engineer,Government,178354
+32,PhD,24,55.0,7,Manager,Startup,226754
+42,High School,17,43.0,2,HR,Startup,125988
+42,PhD,16,51.0,2,Data Analyst,MNC,168757
+50,High School,11,68.0,4,Software Engineer,MNC,145855
+58,Bachelor,5,46.0,9,DevOps Engineer,MNC,144546
+58,High School,25,53.0,2,Data Analyst,Startup,143564
+28,Bachelor,26,94.0,7,DevOps Engineer,Government,225678
+47,Bachelor,7,51.0,9,Data Scientist,Government,162848
+47,High School,18,74.0,7,DevOps Engineer,MNC,180555
+54,Bachelor,0,44.0,1,Software Engineer,MNC,117916
+41,Master,28,56.0,3,Manager,Startup,204673
+50,High School,34,97.0,9,Data Scientist,Government,254454
+53,High School,13,81.0,0,HR,MNC,130893
+48,Bachelor,34,71.0,3,Data Analyst,Startup,199784
+53,Bachelor,19,49.0,3,Software Engineer,MNC,167803
+25,High School,12,82.0,9,Data Scientist,Startup,186468
+39,Master,7,56.0,8,Data Scientist,Government,163619
+24,Bachelor,19,44.0,2,Software Engineer,Startup,143056
+55,Bachelor,32,84.0,1,HR,MNC,195083
+37,PhD,25,81.0,8,HR,MNC,222891
+48,Master,20,48.0,8,Manager,Government,199950
+50,Master,8,88.0,0,DevOps Engineer,Government,174140
+49,High School,23,72.0,5,HR,MNC,165961
+26,Master,16,75.0,9,Manager,MNC,215419
+55,High School,23,75.0,7,DevOps Engineer,MNC,208676
+57,PhD,20,57.0,2,Data Scientist,Government,200976
+44,Master,12,48.0,8,Software Engineer,MNC,172352
+49,Bachelor,10,96.0,1,HR,Government,156212
+51,PhD,18,,5,Manager,MNC,221775
+55,High School,10,89.0,0,Data Scientist,Startup,150202
+53,PhD,12,53.0,6,HR,Startup,152167
+41,High School,0,64.0,2,Data Analyst,MNC,97779
+52,PhD,18,54.0,6,Data Scientist,Startup,208920
+43,,11,45.0,3,HR,Government,121302
+53,Master,7,95.0,8,Data Scientist,Startup,183700
+23,Bachelor,7,81.0,4,Software Engineer,Startup,145246
+38,High School,11,68.0,2,Software Engineer,Government,133173
+45,PhD,32,54.0,7,Software Engineer,Startup,230745
+51,High School,25,68.0,5,DevOps Engineer,Startup,191878
+23,High School,27,43.0,1,Data Analyst,MNC,148648
+44,High School,4,57.0,2,Software Engineer,Government,125736
+52,PhD,7,89.0,7,Data Analyst,Government,176322
+42,Bachelor,24,96.0,9,Software Engineer,MNC,230301
+43,Master,26,88.0,6,DevOps Engineer,MNC,233341
+22,Bachelor,22,83.0,9,Data Scientist,Startup,222952
+47,High School,29,78.0,5,HR,Startup,184774
+22,PhD,22,55.0,0,HR,Startup,176305
+46,Bachelor,19,,8,Software Engineer,MNC,171785
+37,High School,17,53.0,2,HR,Government,139729
+53,Master,17,42.0,4,Software Engineer,Startup,160857
+29,Master,1,90.0,6,Software Engineer,MNC,165608
+59,Master,3,89.0,6,Manager,Government,187790
+49,High School,29,81.0,2,Manager,MNC,223029
+46,PhD,32,77.0,3,Manager,Startup,243737
+55,Bachelor,17,84.0,9,Data Analyst,MNC,198332
+45,Master,18,81.0,6,Manager,MNC,211166
+44,High School,27,57.0,7,Software Engineer,MNC,192506
+33,High School,19,97.0,1,DevOps Engineer,MNC,186879
+27,Bachelor,32,59.0,8,DevOps Engineer,Government,220580
+56,,11,97.0,6,Data Scientist,Startup,194332
+40,High School,14,87.0,7,Manager,Government,191896
+21,Bachelor,1,64.0,5,DevOps Engineer,MNC,133478
+28,PhD,28,96.0,5,Manager,MNC,259751
+36,PhD,9,77.0,8,Data Scientist,Startup,206425
+34,PhD,1,52.0,3,DevOps Engineer,Startup,142680
+32,Master,10,43.0,4,Software Engineer,Government,147248
+43,Bachelor,12,94.0,8,Data Analyst,Government,179767
+35,Bachelor,9,53.0,0,Manager,Startup,134462
+48,High School,13,72.0,3,DevOps Engineer,Government,156079
+54,High School,17,67.0,6,DevOps Engineer,MNC,173255
+22,High School,8,91.0,8,Data Scientist,MNC,190287
+52,Bachelor,27,76.0,9,Software Engineer,Startup,203819
+43,High School,2,47.0,5,HR,Government,91875
+42,Bachelor,19,83.0,7,DevOps Engineer,MNC,209519
+45,Bachelor,5,73.0,8,Data Analyst,Startup,142202
+42,PhD,26,83.0,9,Data Scientist,Government,257795
+42,High School,1,44.0,3,DevOps Engineer,MNC,103592
+26,PhD,28,93.0,0,DevOps Engineer,Government,234486
+35,Master,2,44.0,7,Data Scientist,Government,146940
+57,Master,15,70.0,1,Data Scientist,Government,188101
+53,Master,29,84.0,0,Manager,Startup,223072
+28,Bachelor,1,48.0,6,DevOps Engineer,MNC,130690
+25,Bachelor,16,81.0,9,HR,Startup,177677
+59,Bachelor,11,71.0,8,Data Analyst,MNC,173601
+24,High School,34,72.0,8,Software Engineer,MNC,219576
+26,PhD,0,42.0,2,Software Engineer,Startup,135374
+52,Bachelor,14,69.0,5,HR,Startup,150699
+50,PhD,25,89.0,6,Data Scientist,MNC,249447
+55,PhD,20,51.0,9,Data Scientist,MNC,218715
+36,PhD,30,68.0,8,Data Scientist,MNC,262445
+33,High School,24,42.0,1,DevOps Engineer,Government,165873
+50,High School,22,65.0,7,Data Scientist,MNC,188556
+39,Master,23,96.0,6,Data Scientist,Startup,229876
+37,Master,27,69.0,3,DevOps Engineer,Startup,204803
+39,PhD,20,48.0,1,DevOps Engineer,Startup,185347
+48,Master,17,65.0,7,HR,MNC,172114
+46,PhD,34,41.0,4,Manager,MNC,244142
+57,High School,8,42.0,5,DevOps Engineer,Government,126783
+46,High School,29,85.0,6,Data Analyst,Government,191629
+43,High School,33,43.0,9,Data Scientist,Startup,212527
+29,Bachelor,31,64.0,0,Manager,Government,215588
+32,PhD,2,90.0,7,Software Engineer,Government,191820
+21,High School,2,52.0,3,HR,Startup,83717
+21,PhD,27,78.0,8,Manager,MNC,262351
+54,Master,14,83.0,0,DevOps Engineer,Government,172216
+52,Master,22,74.0,1,Data Scientist,MNC,204423
+45,High School,10,94.0,5,Data Scientist,Startup,166923
+21,PhD,31,62.0,9,Data Scientist,Startup,240961
+36,High School,32,48.0,0,Manager,Government,186689
+59,Master,23,41.0,3,Data Scientist,Startup,173931
+25,High School,33,93.0,7,DevOps Engineer,Startup,224927
+42,PhD,27,80.0,9,Manager,Startup,261861
+49,Master,6,83.0,4,Data Scientist,Government,181007
+23,Bachelor,3,70.0,8,Software Engineer,Government,160201
+32,Master,0,83.0,5,Software Engineer,Government,145146
+46,Bachelor,0,86.0,0,Data Analyst,Startup,124728
+36,,19,41.0,5,Data Scientist,MNC,175805
+57,High School,18,71.0,5,Data Scientist,Startup,176032
+42,PhD,28,57.0,5,Manager,Government,229964
+49,Bachelor,9,52.0,7,Manager,MNC,169345
+34,High School,17,85.0,5,Data Scientist,MNC,182722
+48,Bachelor,27,44.0,4,Data Analyst,Government,173589
+25,High School,34,97.0,1,Data Scientist,MNC,236110
+50,Master,30,81.0,3,DevOps Engineer,MNC,228264
+25,High School,26,83.0,9,Manager,Government,223375
+32,PhD,10,49.0,4,Data Scientist,MNC,175119
+36,Master,4,95.0,9,Manager,MNC,196864
+46,PhD,7,82.0,3,Data Scientist,Government,183218
+46,Master,33,64.0,1,HR,MNC,209464
+41,Bachelor,11,73.0,6,Manager,MNC,188079
+59,PhD,0,76.0,9,Data Analyst,MNC,167598
+56,High School,30,69.0,9,HR,MNC,192752
+53,Bachelor,3,46.0,1,DevOps Engineer,Government,108125
+50,High School,4,45.0,0,Data Scientist,Startup,110365
+57,Master,29,93.0,4,DevOps Engineer,Startup,233107
+43,Master,23,94.0,0,Manager,MNC,222099
+30,High School,2,42.0,0,HR,Government,71524
+25,High School,10,52.0,0,DevOps Engineer,Government,134084
+56,Bachelor,3,42.0,5,Data Analyst,MNC,111915
+54,High School,25,65.0,8,Manager,Startup,200657
+51,PhD,26,96.0,9,HR,MNC,252548
+30,PhD,26,,0,DevOps Engineer,Government,209831
+39,High School,5,92.0,4,HR,Government,142644
+52,PhD,14,45.0,8,HR,Startup,173923
+21,High School,29,82.0,8,DevOps Engineer,Government,225208
+25,Bachelor,34,99.0,0,Software Engineer,Government,231868
+24,,22,97.0,7,Data Scientist,Government,253543
+36,PhD,5,88.0,0,Manager,Startup,173034
+44,High School,3,81.0,7,Manager,Government,161609
+36,PhD,17,51.0,0,Manager,MNC,191372
+22,Master,8,88.0,4,HR,Startup,144377
+48,Bachelor,28,75.0,7,DevOps Engineer,MNC,233263
+52,Bachelor,12,41.0,5,Data Scientist,MNC,164605
+47,PhD,16,50.0,8,Data Analyst,Startup,171418
+40,PhD,31,78.0,0,Manager,MNC,249554
+44,Master,21,73.0,8,DevOps Engineer,Startup,200039
+32,Master,3,65.0,0,Data Scientist,MNC,145804
+55,PhD,4,57.0,9,Data Scientist,Startup,179923
+53,PhD,12,,9,Software Engineer,Government,198826
+53,Master,33,75.0,2,DevOps Engineer,Government,229212
+57,High School,21,79.0,0,Manager,MNC,179789
+32,Master,22,91.0,2,HR,Government,187568
+23,High School,2,85.0,1,Data Scientist,Startup,131758
+21,Bachelor,33,83.0,1,Data Scientist,MNC,219544
+53,Bachelor,31,61.0,8,Data Analyst,Government,212481
+30,Master,20,92.0,7,Software Engineer,Government,210550
+49,High School,20,98.0,0,Data Scientist,MNC,201681
+33,Master,10,69.0,3,Data Scientist,Government,173306
+32,Master,3,89.0,0,HR,Government,135480
+51,High School,0,82.0,0,HR,MNC,112604
+22,Master,27,99.0,3,Data Analyst,Government,207465
+55,Bachelor,23,69.0,1,DevOps Engineer,Government,186611
+43,PhD,34,47.0,2,Data Analyst,Government,207851
+37,PhD,12,73.0,8,Data Analyst,Government,190449
+46,Master,33,96.0,1,HR,MNC,222243
+28,High School,10,86.0,3,DevOps Engineer,Startup,153660
+49,High School,16,48.0,0,HR,Startup,105385
+46,Bachelor,34,90.0,1,Software Engineer,Government,216948
+30,High School,17,59.0,4,Manager,Government,175298
+46,High School,21,79.0,9,Manager,Startup,213791
+54,Bachelor,23,64.0,0,Software Engineer,Government,164930
+27,Master,18,58.0,6,Manager,Startup,191260
+24,PhD,20,44.0,3,DevOps Engineer,MNC,185038
+31,Bachelor,7,50.0,5,HR,MNC,137420
+49,Master,27,54.0,7,Manager,MNC,230191
+56,Bachelor,4,47.0,5,DevOps Engineer,MNC,137238
+45,Master,16,58.0,1,HR,MNC,153349
+41,Bachelor,18,62.0,0,DevOps Engineer,MNC,168749
+56,Master,26,66.0,7,Software Engineer,Startup,210782
+30,Bachelor,33,79.0,7,Data Analyst,Government,220443
+57,Master,10,71.0,8,Software Engineer,Startup,175945
+29,Bachelor,11,65.0,5,Manager,MNC,175899
+44,PhD,20,66.0,0,HR,Government,173345
+55,PhD,10,58.0,8,DevOps Engineer,Government,185461
+55,High School,27,89.0,2,Manager,MNC,218851
+56,Master,4,81.0,5,Manager,MNC,188332
+38,Bachelor,16,68.0,9,Data Analyst,MNC,181921
+59,Master,19,78.0,9,Manager,MNC,223423
+52,PhD,11,99.0,8,Data Analyst,MNC,203660
+44,Master,5,80.0,2,HR,MNC,151607
+43,Bachelor,16,72.0,4,HR,Government,162319
+52,Master,18,58.0,4,DevOps Engineer,MNC,178169
+57,Bachelor,25,76.0,9,Data Analyst,MNC,206111
+32,PhD,31,,6,Software Engineer,Government,230686
+33,PhD,5,72.0,3,HR,Startup,156118
+43,PhD,10,86.0,3,DevOps Engineer,MNC,191322
+45,,32,55.0,6,Software Engineer,Government,200909
+55,,23,62.0,8,HR,Government,197989
+50,Master,22,46.0,3,HR,Startup,160442
+37,High School,14,65.0,3,DevOps Engineer,MNC,156710
+40,PhD,26,71.0,5,DevOps Engineer,MNC,241133
+45,Master,10,51.0,5,Data Scientist,MNC,161214
+42,Master,16,47.0,6,Manager,Government,186883
+33,Master,13,44.0,0,Manager,MNC,164270
+39,Bachelor,26,81.0,2,Software Engineer,MNC,203510
+56,High School,17,67.0,8,Manager,MNC,193429
+32,,27,92.0,5,Software Engineer,MNC,226571
+39,Bachelor,3,44.0,5,HR,Startup,110849
+32,PhD,6,88.0,4,Data Scientist,Startup,189041
+29,Master,34,65.0,2,Data Scientist,Startup,211914
+27,Bachelor,8,44.0,4,HR,MNC,127893
+48,Master,7,61.0,0,DevOps Engineer,MNC,157688
+34,High School,16,54.0,2,Data Analyst,Government,143540
+51,High School,16,52.0,3,Data Analyst,Government,127816
+39,PhD,32,67.0,4,Manager,Government,244511
+36,,31,72.0,9,DevOps Engineer,MNC,250131
+25,Bachelor,7,82.0,8,Software Engineer,Startup,162295
+55,PhD,18,62.0,3,Data Scientist,Startup,195660
+32,Master,2,72.0,2,Manager,Startup,161347
+45,PhD,4,82.0,9,HR,MNC,182048
+41,Bachelor,12,57.0,0,DevOps Engineer,Startup,143242
+56,PhD,30,89.0,9,Data Scientist,Government,273510
+43,PhD,15,92.0,5,Software Engineer,Government,208733
+36,PhD,31,69.0,6,Software Engineer,Startup,228552
+59,Master,21,65.0,9,Data Analyst,Government,196978
+59,Bachelor,28,55.0,7,Manager,Startup,208227
+34,High School,21,52.0,0,HR,Startup,123923
+51,Master,2,78.0,3,Data Scientist,Government,149582
+25,High School,9,72.0,4,Software Engineer,Government,149205
+55,High School,20,65.0,1,Data Scientist,Government,174646
+43,Master,15,87.0,0,HR,Government,171129
+49,Master,11,40.0,7,Data Scientist,Startup,162701
+31,Bachelor,1,88.0,5,Manager,Government,171010
+38,Bachelor,23,77.0,4,Data Analyst,Government,190714
+32,PhD,34,41.0,8,Data Scientist,MNC,256366
+29,High School,29,88.0,1,DevOps Engineer,Government,210430
+30,Bachelor,29,45.0,9,Data Analyst,Government,196365
+37,PhD,34,85.0,7,HR,Startup,241233
+58,Bachelor,18,89.0,9,Data Analyst,Startup,189408
+27,Master,7,77.0,8,Data Scientist,MNC,183760
+33,Bachelor,25,81.0,0,Data Scientist,Government,198985
+29,High School,6,63.0,6,DevOps Engineer,Government,140212
+47,Bachelor,29,57.0,7,Software Engineer,Government,209416
+22,High School,6,66.0,2,DevOps Engineer,Government,141509
+25,Master,2,80.0,3,Data Scientist,Government,153625
+49,High School,0,47.0,2,Data Analyst,Government,84369
+57,Bachelor,24,67.0,6,DevOps Engineer,MNC,196123
+58,PhD,0,49.0,8,DevOps Engineer,Government,155410
+39,Master,14,56.0,2,Software Engineer,Government,159357
+28,Bachelor,12,94.0,5,Data Scientist,Government,194051
+21,Master,7,68.0,7,Data Scientist,MNC,176092
+42,Master,4,97.0,5,HR,Government,161546
+37,Bachelor,8,45.0,1,Software Engineer,MNC,131370
+27,Bachelor,0,53.0,6,HR,Startup,99887
+45,PhD,34,61.0,1,HR,Government,219456
+24,Master,1,93.0,1,HR,MNC,141740
+56,Master,22,45.0,1,Manager,Startup,172799
+26,Bachelor,8,,0,HR,MNC,124860
+51,High School,33,78.0,0,DevOps Engineer,MNC,203551
+39,Bachelor,13,51.0,6,Data Analyst,Startup,144141
+59,Master,3,74.0,4,DevOps Engineer,Government,162293
+47,Bachelor,29,53.0,2,DevOps Engineer,Government,195220
+30,PhD,30,61.0,0,Data Scientist,MNC,236491
+46,High School,10,90.0,9,Manager,Startup,188084
+39,Bachelor,34,62.0,5,HR,Government,193427
+59,PhD,7,87.0,0,Data Scientist,MNC,182660
+23,Master,2,46.0,8,Software Engineer,Startup,131028
+33,Bachelor,13,79.0,1,Software Engineer,MNC,164572
+48,Master,12,89.0,0,Data Scientist,Startup,176312
+40,PhD,31,64.0,6,Data Analyst,Government,223615
+48,Master,33,52.0,5,Data Scientist,Government,228159
+28,PhD,18,60.0,5,Data Scientist,MNC,214631
+59,PhD,15,80.0,4,Manager,Government,223758
+21,PhD,1,49.0,3,Software Engineer,Government,133923
+23,Bachelor,16,92.0,3,Software Engineer,Startup,172624
+33,Master,33,94.0,2,HR,Government,228882
+48,Master,15,98.0,9,DevOps Engineer,Startup,214077
+45,High School,1,48.0,7,Data Scientist,Startup,126708
+53,High School,1,54.0,6,Data Scientist,MNC,124510
+58,High School,25,91.0,8,Data Analyst,Startup,194418
+26,High School,12,41.0,0,Software Engineer,Government,121153
+52,Master,30,64.0,6,Data Analyst,Startup,198229
+41,PhD,33,52.0,9,Manager,Startup,256110
+36,PhD,2,73.0,3,HR,MNC,148789
+41,Bachelor,7,90.0,6,Data Analyst,Government,161221
+31,PhD,22,97.0,0,Software Engineer,Government,217785
+57,Master,13,73.0,4,Manager,Government,188782
+56,Master,26,74.0,2,Data Scientist,Startup,206716
+55,Master,28,77.0,4,Manager,Government,221275
+39,Bachelor,0,42.0,3,DevOps Engineer,Government,121470
+40,High School,16,81.0,1,Data Analyst,Startup,139712
+38,PhD,29,95.0,3,Software Engineer,MNC,254640
+34,Master,12,98.0,2,Data Analyst,MNC,189584
+35,Master,20,45.0,0,Data Scientist,Startup,156550
+51,High School,18,94.0,9,Data Scientist,MNC,209390
+21,Master,18,87.0,7,Software Engineer,MNC,209337
+23,PhD,24,88.0,4,DevOps Engineer,MNC,243762
+36,Bachelor,21,58.0,3,HR,Government,164078
+43,Master,30,42.0,9,Manager,MNC,234505
+31,PhD,16,57.0,4,Manager,Government,196631
+32,Master,22,78.0,3,Data Scientist,MNC,207473
+30,High School,31,48.0,2,Data Analyst,Government,168728
+52,Master,9,91.0,4,Data Analyst,Startup,162464
+36,Master,9,51.0,3,DevOps Engineer,Startup,142948
+28,Bachelor,7,44.0,0,HR,MNC,99776
+58,High School,19,42.0,2,Data Analyst,Government,130932
+32,High School,31,50.0,9,Manager,Startup,202520
+44,Bachelor,13,96.0,9,Data Analyst,Startup,184384
+48,Master,27,69.0,7,HR,Startup,197722
+28,PhD,23,43.0,6,Manager,Startup,215986
+48,High School,14,44.0,1,Data Analyst,MNC,121866
+56,High School,21,40.0,0,Manager,Government,157589
+46,Master,29,66.0,2,Data Scientist,Startup,213108
+28,Master,3,67.0,4,Data Scientist,MNC,159567
+48,High School,12,68.0,9,DevOps Engineer,Startup,167416
+48,,22,,0,Data Scientist,Startup,172133
+57,PhD,7,51.0,2,Data Analyst,Startup,137317
+56,High School,17,52.0,2,HR,Startup,129450
+47,PhD,11,80.0,4,Manager,MNC,206859
+37,PhD,30,41.0,2,Software Engineer,Government,209064
+29,Master,13,76.0,8,Data Scientist,MNC,198897
+53,PhD,33,84.0,0,Data Scientist,MNC,251593
+40,Master,17,55.0,3,Software Engineer,MNC,174332
+33,Bachelor,33,87.0,9,Software Engineer,Startup,226015
+48,Master,10,63.0,9,Data Analyst,Government,168944
+49,PhD,11,74.0,3,Manager,Startup,195701
+33,Bachelor,14,61.0,0,Data Scientist,MNC,170650
+55,Master,30,75.0,1,HR,Startup,189668
+26,PhD,28,50.0,0,Data Analyst,Government,189508
+38,High School,25,94.0,5,Data Analyst,Government,198854
+25,High School,17,97.0,2,HR,Startup,148739
+45,Master,31,85.0,6,HR,MNC,231246
+22,Master,21,68.0,4,DevOps Engineer,Startup,190209
+30,High School,16,74.0,8,HR,MNC,166088
+50,PhD,22,87.0,6,Software Engineer,Government,232217
+25,PhD,23,93.0,3,Data Scientist,Startup,238362
+53,PhD,7,54.0,4,DevOps Engineer,Government,160765
+21,Master,5,99.0,4,Software Engineer,MNC,187455
+38,Bachelor,4,70.0,4,DevOps Engineer,MNC,158391
+52,Bachelor,28,81.0,9,Data Scientist,Startup,225500
+31,Bachelor,27,80.0,8,DevOps Engineer,Startup,223993
+41,Bachelor,10,82.0,9,Software Engineer,Startup,167171
+46,Bachelor,0,55.0,2,Manager,Government,123383
+45,Master,18,49.0,5,Data Scientist,MNC,181900
+42,Master,8,88.0,7,Data Analyst,MNC,173118
+47,Bachelor,26,71.0,8,Data Scientist,Government,228327
+33,Master,33,90.0,6,Data Scientist,Startup,255889
+53,Master,3,41.0,2,Data Scientist,Startup,133889
+54,Bachelor,17,63.0,0,Manager,Government,177523
+55,PhD,14,62.0,3,Software Engineer,MNC,183101
+21,Master,12,41.0,5,Data Analyst,MNC,139658
+41,PhD,18,77.0,2,Software Engineer,MNC,202495
+26,Master,5,70.0,0,DevOps Engineer,MNC,145038
+48,Master,11,90.0,5,DevOps Engineer,Government,198514
+37,Bachelor,16,79.0,0,DevOps Engineer,MNC,175283
+25,Master,22,65.0,8,Software Engineer,Government,197103
+51,High School,25,68.0,0,HR,Startup,153567
+25,High School,28,42.0,5,Manager,Government,179605
+58,Bachelor,32,97.0,0,HR,MNC,210342
+23,PhD,26,53.0,6,DevOps Engineer,Startup,210791
+43,PhD,24,64.0,2,Manager,Government,216941
+57,PhD,9,87.0,5,Software Engineer,Government,202929
+57,High School,22,40.0,6,DevOps Engineer,Government,175504
+30,PhD,20,92.0,0,Software Engineer,Startup,201128
+30,PhD,20,42.0,0,Manager,Government,185430
+39,Bachelor,12,93.0,4,Software Engineer,MNC,188662
+37,PhD,32,65.0,5,Software Engineer,Startup,233883
+41,High School,23,57.0,8,Data Analyst,Startup,172896
+34,High School,10,48.0,0,HR,Government,102548
+29,High School,16,77.0,3,HR,MNC,151988
+21,Bachelor,3,62.0,9,HR,Startup,132114
+33,Bachelor,24,60.0,7,Data Scientist,Government,201977
+24,Master,29,96.0,9,Data Analyst,MNC,233503
+21,PhD,8,40.0,8,DevOps Engineer,Government,177389
+52,Bachelor,20,60.0,2,DevOps Engineer,Government,181682
+54,High School,19,66.0,1,DevOps Engineer,Startup,158970
+48,High School,18,81.0,3,HR,Startup,142242
+51,Bachelor,18,98.0,1,HR,Government,168859
+28,Bachelor,11,45.0,0,Data Analyst,Startup,116400
+59,Bachelor,16,94.0,2,Software Engineer,Startup,179346
+46,Master,27,83.0,6,HR,MNC,205754
+54,High School,34,75.0,0,DevOps Engineer,MNC,206266
+23,Master,17,67.0,1,Software Engineer,Government,178149
+32,Master,13,84.0,0,HR,Government,157530
+21,PhD,34,56.0,7,Manager,Government,262965
+25,High School,6,98.0,4,Data Scientist,Government,161502
+50,High School,12,79.0,7,HR,MNC,147522
+50,Bachelor,17,97.0,2,Manager,Startup,187901
+37,Bachelor,12,91.0,6,Data Analyst,MNC,175750
+43,PhD,30,42.0,7,Manager,Government,241608
+35,Master,1,51.0,5,Data Analyst,Government,116774
+57,Bachelor,15,78.0,6,HR,MNC,163829
+41,Bachelor,8,51.0,1,Data Analyst,MNC,124857
+34,High School,8,41.0,7,Manager,Government,154275
+22,High School,10,95.0,4,Data Scientist,Startup,165976
+31,Bachelor,21,85.0,6,Software Engineer,Government,207945
+59,High School,32,61.0,0,Software Engineer,MNC,192662
+58,PhD,22,62.0,4,Data Scientist,Government,207922
+54,Bachelor,33,69.0,0,DevOps Engineer,Government,198191
+58,High School,8,44.0,7,Software Engineer,Startup,135859
+54,PhD,23,48.0,3,HR,Government,188667
+38,High School,7,60.0,3,DevOps Engineer,Government,135574
+50,High School,6,50.0,1,HR,Government,99796
+35,High School,17,44.0,4,Manager,MNC,157378
+47,Bachelor,2,74.0,0,Manager,MNC,149069
+54,Master,27,66.0,8,DevOps Engineer,Startup,222062
+58,High School,5,88.0,4,DevOps Engineer,Government,158604
+53,PhD,20,41.0,5,DevOps Engineer,MNC,201660
+44,Bachelor,27,63.0,1,DevOps Engineer,Startup,185315
+35,Bachelor,0,70.0,9,Data Analyst,Government,129370
+50,PhD,20,72.0,9,DevOps Engineer,Startup,214308
+37,High School,34,78.0,0,DevOps Engineer,Startup,209504
+25,Master,12,69.0,3,Manager,Startup,171607
+49,High School,9,85.0,6,HR,Startup,141297
+24,PhD,9,76.0,5,Manager,Startup,202581
+30,Bachelor,12,90.0,9,Software Engineer,Startup,178587
+37,Master,23,67.0,0,Data Analyst,Startup,171785
+30,Bachelor,1,,0,Data Analyst,Government,124213
+37,PhD,21,70.0,7,HR,Government,203452
+40,High School,16,50.0,3,DevOps Engineer,Startup,137457
+44,Master,13,62.0,4,Manager,Government,181364
+25,Bachelor,9,96.0,6,Software Engineer,Startup,163850
+54,Bachelor,34,41.0,7,Manager,Government,224237
+26,Bachelor,24,79.0,9,DevOps Engineer,MNC,219754
+22,High School,2,80.0,6,DevOps Engineer,Startup,143785
+33,Master,16,66.0,1,Data Scientist,MNC,185781
+31,High School,11,74.0,3,Manager,Startup,148318
+43,High School,23,41.0,9,HR,Startup,153008
+36,High School,28,78.0,0,Manager,MNC,214162
+51,,24,76.0,9,Data Analyst,MNC,236568
+31,PhD,25,60.0,8,Software Engineer,MNC,224077
+36,PhD,0,97.0,2,HR,Startup,142981
+28,Master,19,44.0,2,Data Scientist,MNC,175754
+24,High School,27,91.0,9,Software Engineer,MNC,222133
+24,High School,15,84.0,8,Software Engineer,Government,172971
+45,PhD,16,60.0,9,Data Analyst,Government,194971
+23,High School,27,68.0,2,Data Analyst,MNC,181070
+52,High School,11,59.0,7,Data Analyst,MNC,141187
+23,Bachelor,26,77.0,1,HR,MNC,178733
+47,High School,29,59.0,2,Manager,MNC,208808
+49,Bachelor,33,89.0,1,Software Engineer,Government,208314
+52,High School,5,64.0,0,Manager,Startup,117506
+39,Master,6,41.0,1,Manager,MNC,137647
+41,PhD,31,96.0,7,Data Analyst,MNC,256333
+25,Bachelor,31,71.0,8,Manager,Government,241580
+38,PhD,24,65.0,1,Software Engineer,MNC,216712
+48,Bachelor,32,45.0,6,Software Engineer,MNC,201361
+42,Bachelor,6,80.0,4,DevOps Engineer,Government,154094
+41,Bachelor,11,96.0,2,Data Scientist,MNC,182045
+26,Master,15,42.0,8,HR,MNC,169451
+21,High School,15,72.0,5,Manager,Government,181860
+25,Bachelor,12,40.0,0,HR,Startup,104532
+32,Master,6,90.0,4,HR,MNC,155943
+46,Bachelor,8,44.0,6,HR,MNC,133369
+54,High School,31,52.0,3,DevOps Engineer,Startup,182748
+34,Bachelor,10,58.0,7,HR,Government,140393
+46,Master,7,51.0,9,DevOps Engineer,Startup,155639
+47,High School,32,87.0,4,Software Engineer,MNC,209103
+29,,22,64.0,8,Manager,Startup,213383
+46,High School,24,96.0,8,DevOps Engineer,Government,220611
+42,High School,7,90.0,8,Data Scientist,MNC,182617
+50,PhD,21,74.0,0,HR,Government,181686
+37,PhD,3,51.0,1,Data Scientist,Government,144331
+46,PhD,2,69.0,2,Software Engineer,Startup,158350
+56,High School,28,44.0,3,Software Engineer,Startup,171733
+21,Bachelor,28,73.0,9,Data Analyst,Government,215728
+28,Master,33,61.0,8,HR,Government,216278
+55,Master,33,78.0,9,Data Analyst,MNC,235305
+35,Master,27,52.0,5,Data Scientist,Government,212769
+42,PhD,12,96.0,0,Manager,Government,197858
+34,High School,14,86.0,8,Data Analyst,Startup,168582
+46,PhD,22,93.0,5,Software Engineer,Government,232222
+48,Bachelor,25,42.0,3,HR,Government,156959
+43,High School,3,99.0,3,Data Scientist,Startup,154135
+34,Master,25,92.0,2,DevOps Engineer,MNC,230975
+44,PhD,8,59.0,6,Software Engineer,Startup,169717
+22,PhD,4,70.0,2,DevOps Engineer,Startup,161258
+46,Bachelor,31,44.0,1,Manager,Government,196439
+34,Bachelor,19,63.0,9,HR,Government,173157
+27,PhD,10,79.0,7,Manager,MNC,214035
+23,Bachelor,14,93.0,3,Manager,Government,203614
+43,Master,31,72.0,7,HR,MNC,226251
+38,Bachelor,27,47.0,0,HR,MNC,168188
+58,Bachelor,21,63.0,4,DevOps Engineer,MNC,188547
+55,PhD,16,89.0,8,Manager,MNC,246844
+35,PhD,25,59.0,0,Data Scientist,Government,213595
+45,High School,6,99.0,3,DevOps Engineer,Startup,162652
+57,High School,25,55.0,5,HR,Startup,147579
+48,PhD,24,,9,Software Engineer,Government,245287
+30,Bachelor,9,91.0,7,DevOps Engineer,Government,178192
+59,Bachelor,18,51.0,2,Data Analyst,MNC,141750
+37,High School,10,52.0,4,Data Scientist,Government,139852
+59,High School,12,84.0,6,DevOps Engineer,Startup,161953
+42,High School,7,81.0,0,HR,Government,124540
+46,Master,3,78.0,6,HR,Government,149000
+45,Master,30,64.0,7,Data Scientist,MNC,240770
+37,High School,27,85.0,7,Data Analyst,MNC,195787
+33,Bachelor,10,71.0,8,DevOps Engineer,MNC,182081
+40,High School,0,63.0,5,DevOps Engineer,MNC,134689
+45,Master,23,87.0,5,Manager,Startup,229239
+24,Bachelor,30,86.0,1,Software Engineer,Government,200355
+30,Master,25,83.0,2,HR,Government,188619
+23,Bachelor,4,48.0,3,DevOps Engineer,MNC,130207
+38,,19,79.0,3,DevOps Engineer,Startup,192728
+56,Bachelor,10,89.0,7,DevOps Engineer,Startup,183957
+42,Bachelor,32,62.0,0,Data Analyst,Government,181998
+54,Bachelor,26,89.0,9,Software Engineer,MNC,230871
+28,Bachelor,33,52.0,3,DevOps Engineer,Government,209106
+39,PhD,14,99.0,3,Data Scientist,Government,220187
+57,Master,31,98.0,0,HR,Startup,211128
+26,Master,20,71.0,2,Manager,Startup,201675
+46,PhD,4,89.0,4,Data Scientist,Government,193139
+54,Bachelor,5,54.0,5,HR,MNC,129219
+26,Bachelor,21,75.0,8,Data Analyst,MNC,189412
+57,Master,17,88.0,8,Software Engineer,Government,202599
+53,PhD,13,44.0,8,Software Engineer,Government,177209
+42,Bachelor,9,61.0,0,HR,MNC,130678
+41,Bachelor,12,55.0,8,Data Scientist,MNC,178594
+26,Bachelor,30,80.0,7,Manager,MNC,251646
+26,High School,29,49.0,1,Data Analyst,Government,169173
+24,PhD,2,63.0,0,HR,Startup,121754
+50,Bachelor,29,57.0,0,Data Analyst,MNC,183382
+31,High School,5,88.0,5,Software Engineer,MNC,162708
+50,PhD,28,57.0,8,DevOps Engineer,MNC,231820
+51,Bachelor,7,46.0,6,DevOps Engineer,Government,138315
+44,Master,32,43.0,4,Manager,Startup,206415
+29,High School,16,65.0,1,Data Analyst,Startup,135960
+23,High School,10,44.0,0,HR,MNC,98583
+51,Bachelor,12,99.0,1,Manager,Government,186905
+57,Bachelor,10,94.0,0,Data Scientist,Startup,168589
+56,High School,30,55.0,2,DevOps Engineer,Government,186340
+44,Master,27,74.0,5,HR,Startup,203492
+51,Master,5,65.0,7,Data Analyst,MNC,147331
+26,PhD,15,57.0,2,Manager,Government,201962
+22,Bachelor,3,68.0,9,HR,MNC,149281
+40,Master,34,62.0,8,Manager,Startup,235246
+48,PhD,25,92.0,9,Manager,Startup,249829
+31,Master,11,53.0,4,Manager,MNC,171418
+24,Bachelor,10,54.0,6,Data Analyst,Startup,145275
+35,PhD,24,88.0,7,HR,MNC,219862
+26,PhD,17,72.0,2,Software Engineer,MNC,201675
+50,PhD,18,64.0,1,Software Engineer,MNC,190349
+58,Master,22,60.0,1,Data Analyst,Startup,174864
+22,Bachelor,17,56.0,4,Data Analyst,Government,163426
+35,PhD,25,62.0,0,DevOps Engineer,MNC,210309
+31,High School,5,96.0,1,Manager,Government,157356
+28,Bachelor,3,82.0,8,HR,Startup,133074
+46,High School,28,56.0,6,HR,Startup,161970
+25,High School,33,97.0,5,Data Scientist,Government,231233
+26,PhD,16,53.0,8,Data Scientist,MNC,219777
+46,PhD,15,68.0,6,Software Engineer,Startup,185145
+24,Master,1,59.0,4,Data Scientist,MNC,141837
+39,Master,33,69.0,8,Data Scientist,MNC,246042
+40,Master,7,58.0,5,Software Engineer,Government,152751
+53,Bachelor,12,92.0,5,DevOps Engineer,Startup,181721
+40,Master,7,78.0,3,Software Engineer,Government,157262
+32,High School,29,95.0,0,Data Scientist,Startup,198073
+21,Master,31,52.0,4,HR,Government,198567
+46,PhD,29,57.0,8,Data Scientist,Startup,242435
+34,Master,0,62.0,7,Manager,Startup,151132
+58,Bachelor,16,85.0,7,Manager,Startup,193987
+57,Bachelor,19,72.0,4,Manager,MNC,192084
+31,High School,23,78.0,8,DevOps Engineer,MNC,209990
+56,Bachelor,21,79.0,2,Data Analyst,Government,183371
+33,Master,28,57.0,2,Manager,Government,210317
+23,PhD,21,48.0,0,HR,Startup,156595
+53,Bachelor,8,72.0,8,DevOps Engineer,Startup,173081
+26,High School,9,71.0,5,Data Analyst,MNC,146981
+30,Master,27,93.0,1,Data Analyst,MNC,207697
+25,High School,27,56.0,7,Manager,MNC,206169
+43,Bachelor,20,58.0,8,Data Scientist,Government,196999
+30,Bachelor,23,66.0,8,Software Engineer,MNC,208902
+22,High School,1,45.0,1,Data Scientist,Government,116928
+33,Master,7,74.0,1,Data Scientist,MNC,168285
+22,Bachelor,26,95.0,6,Data Analyst,MNC,211331
+40,PhD,21,76.0,3,Data Analyst,Startup,201475
+21,Bachelor,26,73.0,0,DevOps Engineer,Government,182068
+57,Master,28,59.0,7,DevOps Engineer,MNC,222682
+29,Bachelor,2,64.0,1,Data Analyst,Startup,102951
+37,High School,12,43.0,2,HR,Government,111918
+29,Bachelor,9,49.0,4,HR,Government,133491
+31,Bachelor,8,49.0,2,Software Engineer,MNC,136092
+35,Master,26,63.0,6,Data Analyst,Government,193225
+44,High School,33,60.0,6,Manager,Startup,206870
+58,Master,0,50.0,1,DevOps Engineer,Startup,112838
+55,Bachelor,31,66.0,6,Data Analyst,Government,207875
+50,PhD,24,55.0,5,HR,Startup,181634
+51,Bachelor,28,65.0,9,Data Analyst,Government,205191
+25,Master,6,69.0,8,HR,Startup,147731
+34,PhD,2,88.0,8,Data Analyst,Government,177156
+31,Master,19,55.0,1,Manager,Government,175054
+29,Master,19,46.0,6,Software Engineer,Government,170369
+54,High School,29,55.0,4,Manager,Startup,199659
+32,PhD,34,74.0,5,HR,Government,237881
+55,Bachelor,34,97.0,0,DevOps Engineer,Government,230838
+55,Master,26,55.0,6,DevOps Engineer,MNC,207217
+21,Bachelor,25,79.0,5,Data Scientist,MNC,220082
+42,High School,13,51.0,3,Manager,Government,157091
+49,High School,16,74.0,0,Data Analyst,MNC,146097
+28,PhD,17,88.0,8,Software Engineer,Government,227301
+31,High School,28,60.0,3,Data Analyst,MNC,182289
+57,High School,19,89.0,1,Data Analyst,Startup,160673
+34,Bachelor,26,82.0,7,Manager,Startup,229912
+50,High School,17,75.0,1,Software Engineer,Government,167952
+55,High School,3,87.0,4,Data Scientist,Government,153848
+41,Master,0,56.0,5,Data Analyst,Startup,124398
+57,High School,0,71.0,7,Software Engineer,Startup,123322
+25,Master,25,80.0,0,Data Scientist,MNC,211580
+39,High School,19,45.0,0,Data Analyst,Government,121402
+34,High School,22,63.0,3,Software Engineer,Startup,171131
+46,PhD,9,66.0,4,Manager,Startup,179256
+24,PhD,10,59.0,8,DevOps Engineer,Government,182493
+45,Master,4,64.0,6,DevOps Engineer,MNC,163039
+45,High School,0,41.0,6,Data Analyst,MNC,111188
+38,Bachelor,16,48.0,7,Data Analyst,MNC,168118
+28,PhD,21,67.0,4,Software Engineer,MNC,221397
+59,Bachelor,33,92.0,4,DevOps Engineer,Startup,227483
+34,PhD,28,77.0,0,Data Analyst,Government,217563
+52,PhD,3,42.0,8,Data Scientist,Government,168775
+58,High School,4,59.0,5,Data Analyst,Startup,111986
+53,PhD,10,45.0,8,DevOps Engineer,Startup,183036
+43,Bachelor,20,78.0,2,HR,Startup,151894
+35,PhD,34,72.0,4,DevOps Engineer,Government,252848
+53,Master,11,94.0,1,Data Scientist,Government,186667
+45,High School,25,40.0,9,Software Engineer,Government,187129
+37,High School,18,76.0,4,Data Scientist,MNC,188537
+53,Master,6,45.0,7,HR,Startup,124154
+22,Master,6,84.0,1,HR,Startup,146122
+34,Master,25,73.0,7,Data Analyst,Startup,208610
+59,PhD,4,86.0,3,Data Analyst,Government,171533
+26,High School,20,54.0,9,DevOps Engineer,Startup,177493
+26,Master,13,84.0,9,Manager,Startup,207541
+23,PhD,3,65.0,0,Data Scientist,MNC,157075
+27,Master,22,96.0,4,DevOps Engineer,Government,221851
+28,Bachelor,19,53.0,0,Manager,Startup,163875
+35,,14,97.0,6,DevOps Engineer,Government,198738
+49,High School,28,93.0,7,HR,Government,192758
+53,PhD,7,46.0,2,Data Analyst,Government,137632
+50,Bachelor,18,85.0,2,Data Analyst,MNC,179748
+59,Bachelor,27,97.0,6,DevOps Engineer,Government,225359
+47,PhD,26,70.0,3,Data Analyst,Government,216201
+56,Master,3,63.0,2,Software Engineer,Government,135982
+49,PhD,14,98.0,7,DevOps Engineer,Startup,226444
+58,Master,34,70.0,2,HR,MNC,214999
+53,Bachelor,0,68.0,6,DevOps Engineer,Startup,131976
+57,Bachelor,2,81.0,1,DevOps Engineer,MNC,153605
+47,Bachelor,23,71.0,0,Data Analyst,MNC,165676
+53,High School,26,56.0,5,HR,Government,173289
+24,High School,33,53.0,7,DevOps Engineer,Government,199966
+42,High School,28,79.0,0,Data Analyst,Startup,176506
+22,PhD,23,75.0,9,Data Scientist,MNC,249458
+30,Bachelor,23,97.0,8,HR,Government,194427
+25,Bachelor,3,87.0,2,Manager,Government,160564
+30,PhD,2,63.0,2,Software Engineer,Government,146648
+53,High School,33,84.0,3,Manager,Government,218324
+58,PhD,22,93.0,0,HR,Startup,186364
+33,High School,22,66.0,8,DevOps Engineer,Startup,184247
+51,Bachelor,4,64.0,2,Data Analyst,Government,123017
+56,Master,30,98.0,9,HR,Government,232187
+44,High School,5,71.0,3,Software Engineer,Government,127777
+35,Bachelor,9,91.0,0,HR,Government,148835
+49,Bachelor,6,57.0,3,Data Analyst,Government,126696
+28,Master,20,85.0,0,Manager,MNC,203370
+25,Bachelor,19,57.0,4,Data Scientist,MNC,175726
+49,Bachelor,2,76.0,4,Manager,MNC,159417
+24,High School,21,65.0,6,Data Analyst,MNC,177745
+32,High School,3,48.0,7,Data Analyst,Government,119702
+22,Master,27,99.0,3,Software Engineer,MNC,221405
+47,Master,11,74.0,6,HR,MNC,175354
+51,Bachelor,4,47.0,3,HR,Startup,104903
+56,High School,12,59.0,2,Manager,MNC,157789
+56,Master,22,93.0,5,Data Scientist,MNC,237761
+46,Master,29,81.0,3,Data Scientist,Government,234982
+47,PhD,24,61.0,2,Software Engineer,MNC,212187
+25,Master,26,58.0,8,Data Analyst,MNC,213156
+40,Bachelor,13,69.0,4,Software Engineer,Government,171994
+31,High School,15,92.0,6,HR,MNC,174633
+30,Master,21,67.0,5,DevOps Engineer,Government,195674
+58,PhD,20,74.0,9,DevOps Engineer,MNC,234644
+26,High School,20,82.0,4,DevOps Engineer,Startup,188723
+28,Master,7,50.0,6,Data Analyst,Startup,138689
+43,PhD,15,70.0,5,Software Engineer,MNC,208828
+46,Master,30,88.0,9,Manager,Startup,254571
+32,High School,9,87.0,1,HR,Government,127365
+46,High School,31,78.0,2,DevOps Engineer,MNC,210721
+33,High School,33,75.0,1,Data Scientist,Government,204348
+38,Bachelor,8,69.0,2,Software Engineer,Startup,146880
+45,Master,16,62.0,0,HR,Government,155996
+53,Bachelor,10,58.0,7,HR,Startup,127423
+32,High School,31,51.0,5,Data Scientist,Startup,190284
+56,PhD,9,54.0,1,Data Scientist,Startup,165755
+24,Master,21,70.0,7,Data Scientist,Government,213107
+25,Bachelor,16,82.0,5,DevOps Engineer,Startup,189319
+57,Master,3,76.0,6,DevOps Engineer,MNC,172936
+28,PhD,24,76.0,0,Software Engineer,Startup,212594
+48,Bachelor,20,54.0,6,Data Scientist,MNC,197036
+51,High School,0,68.0,2,Manager,MNC,134419
+29,Bachelor,24,89.0,7,HR,MNC,205269
+49,Master,16,82.0,5,Data Scientist,MNC,214733
+34,Master,23,65.0,3,HR,Government,178700
+42,Master,1,83.0,7,Data Analyst,MNC,147143
+31,Master,14,41.0,8,Data Analyst,Startup,146600
+43,High School,31,59.0,9,Data Scientist,MNC,222745
+21,Bachelor,5,54.0,1,HR,Startup,97524
+57,High School,0,91.0,5,Data Analyst,Government,132458
+41,High School,22,43.0,4,Data Scientist,MNC,177049
+46,High School,16,61.0,4,HR,Startup,127566
+56,Master,33,89.0,9,Data Scientist,Government,270430
+43,Master,28,77.0,2,DevOps Engineer,Government,223120
+21,Master,8,62.0,7,HR,Startup,142668
+35,Bachelor,12,,7,Data Analyst,MNC,187413
+41,PhD,5,65.0,4,Data Scientist,Government,181732
+29,Master,5,90.0,7,Data Analyst,Startup,156101
+29,Bachelor,19,50.0,9,Data Scientist,MNC,197430
+30,Master,2,67.0,7,Software Engineer,Government,147233
+46,Master,16,95.0,2,Data Analyst,Startup,172899
+55,High School,11,41.0,1,Data Analyst,Government,117039
+45,High School,0,98.0,8,Manager,Government,176169
+46,High School,16,47.0,1,DevOps Engineer,Startup,133336
+31,Bachelor,2,68.0,8,Data Analyst,Government,141547
+58,PhD,25,50.0,3,HR,Startup,185461
+22,PhD,14,76.0,1,Data Scientist,MNC,199286
+27,Bachelor,31,57.0,9,Software Engineer,Startup,203082
+38,Master,31,94.0,0,HR,MNC,221530
+47,Bachelor,3,89.0,3,HR,Government,125654
+54,Master,17,53.0,8,HR,Startup,156585
+47,Bachelor,18,93.0,8,HR,Startup,184917
+37,Bachelor,34,49.0,3,Software Engineer,Startup,202578
+44,Bachelor,13,74.0,8,Manager,Startup,185796
+45,PhD,32,48.0,5,DevOps Engineer,MNC,224158
+27,High School,13,74.0,0,Data Analyst,MNC,148580
+26,Bachelor,33,50.0,9,HR,Government,190754
+44,PhD,3,83.0,5,Data Analyst,Government,171267
+53,High School,23,51.0,8,Data Analyst,Government,175265
+49,High School,28,42.0,1,HR,Government,153478
+42,Bachelor,18,92.0,5,Manager,Startup,204406
+46,Master,5,78.0,1,Data Analyst,MNC,141383
+48,Master,32,53.0,3,Data Scientist,MNC,219954
+41,Master,18,95.0,7,Data Analyst,MNC,209808
+27,Bachelor,0,67.0,6,DevOps Engineer,MNC,138225
+37,Master,4,50.0,8,HR,Government,141625
+40,PhD,26,78.0,6,Software Engineer,Startup,220743
+40,PhD,15,64.0,0,Data Analyst,MNC,165337
+42,PhD,5,60.0,1,Manager,Startup,164917
+48,PhD,12,49.0,5,Data Scientist,Startup,187465
+27,High School,34,82.0,6,Data Scientist,Startup,220075
+21,PhD,18,54.0,2,Software Engineer,Startup,186661
+52,Master,11,58.0,8,DevOps Engineer,MNC,179248
+33,Bachelor,15,87.0,6,Software Engineer,MNC,188951
+50,Master,9,61.0,5,DevOps Engineer,MNC,176690
+43,PhD,24,60.0,5,Data Analyst,Government,194668
+39,High School,19,99.0,0,HR,MNC,174348
+52,PhD,30,91.0,4,Manager,Government,265612
+50,Bachelor,3,83.0,9,Data Scientist,Government,180141
+49,Master,22,71.0,2,Software Engineer,Government,182946
+49,Bachelor,1,89.0,6,Manager,MNC,169453
+50,Bachelor,21,62.0,9,DevOps Engineer,MNC,204033
+36,Bachelor,7,52.0,2,HR,MNC,117549
+39,Master,6,44.0,4,Data Scientist,Government,154695
+38,PhD,13,43.0,6,Data Scientist,Government,184041
+21,Bachelor,2,67.0,2,DevOps Engineer,Startup,118788
+34,Master,15,53.0,9,HR,Government,165815
+22,High School,18,47.0,1,Data Scientist,Government,149691
+48,Master,17,48.0,5,HR,MNC,170506
+50,High School,15,96.0,7,Data Scientist,Startup,199614
+58,Master,7,90.0,3,Data Analyst,Startup,155575
+24,PhD,32,74.0,8,DevOps Engineer,Startup,256004
+21,Bachelor,11,76.0,7,HR,MNC,170148
+28,PhD,10,60.0,6,Manager,Startup,189950
+49,Master,4,97.0,6,Data Analyst,Startup,156313
+59,Bachelor,26,57.0,2,Manager,MNC,197437
+23,High School,11,72.0,5,DevOps Engineer,Startup,146469
+52,Master,16,47.0,4,Data Scientist,Government,166142
+30,Bachelor,5,90.0,0,Manager,Government,154829
+30,High School,32,88.0,2,Data Analyst,Government,198087
+39,High School,4,56.0,0,HR,Government,102509
+54,PhD,27,82.0,3,Software Engineer,Government,222295
+53,Master,13,70.0,9,Manager,Government,210324
+43,High School,4,73.0,2,Software Engineer,Government,136227
+48,Bachelor,32,45.0,3,DevOps Engineer,Government,193539
+52,High School,18,61.0,8,Manager,Government,184898
+27,High School,21,53.0,2,Manager,MNC,167186
+49,PhD,4,42.0,5,HR,MNC,146609
+28,PhD,1,51.0,5,Data Scientist,Government,152024
+21,Bachelor,29,75.0,6,Data Analyst,MNC,215652
+23,PhD,3,51.0,8,Data Analyst,MNC,150636
+44,High School,32,84.0,6,Data Analyst,Government,204889
+43,High School,12,41.0,0,DevOps Engineer,Government,129757
+28,PhD,19,41.0,7,Data Scientist,MNC,198510
+57,High School,6,54.0,4,Software Engineer,Government,124619
+23,High School,14,62.0,8,Data Analyst,Government,157865
+53,Bachelor,22,68.0,9,Software Engineer,Government,203057
+48,PhD,13,56.0,4,Data Scientist,Government,179177
+28,High School,22,71.0,4,DevOps Engineer,MNC,185606
+54,PhD,18,46.0,1,Data Scientist,Startup,180068
+55,Bachelor,28,69.0,2,HR,MNC,192846
+52,PhD,19,67.0,9,Data Analyst,Startup,191908
+44,High School,28,53.0,8,DevOps Engineer,Startup,188419
+34,PhD,23,83.0,6,HR,Startup,198981
+52,High School,17,69.0,0,Data Analyst,MNC,151087
+36,High School,9,56.0,2,Data Scientist,MNC,134545
+24,High School,7,71.0,1,Data Scientist,MNC,147762
+57,Bachelor,25,85.0,0,Manager,MNC,211910
+41,PhD,28,45.0,8,Manager,MNC,235129
+34,Bachelor,9,90.0,7,Data Scientist,Startup,177204
+51,PhD,16,63.0,4,Data Scientist,MNC,197876
+38,Bachelor,1,45.0,1,Software Engineer,Startup,107513
+27,Master,5,66.0,0,Software Engineer,MNC,152368
+30,High School,4,57.0,6,HR,MNC,123128
+27,High School,27,63.0,1,Manager,Government,180844
+53,Bachelor,4,76.0,0,Manager,Startup,134533
+43,Master,17,95.0,1,Data Scientist,MNC,200669
+41,High School,25,63.0,6,Data Scientist,MNC,207184
+39,PhD,19,77.0,6,HR,MNC,212578
+39,Bachelor,26,73.0,9,DevOps Engineer,Government,223679
+56,High School,11,79.0,5,DevOps Engineer,Startup,165638
+49,High School,6,86.0,4,DevOps Engineer,MNC,149133
+38,Bachelor,2,,2,Manager,MNC,129546
+22,Bachelor,9,50.0,2,Software Engineer,MNC,137532
+21,PhD,33,61.0,8,DevOps Engineer,Government,246027
+25,PhD,24,93.0,3,Data Analyst,MNC,230297
+40,High School,34,63.0,8,HR,Startup,183892
+31,High School,15,40.0,3,DevOps Engineer,Startup,131427
+22,Bachelor,1,57.0,1,Data Analyst,Startup,108051
+23,High School,23,83.0,3,DevOps Engineer,Startup,184342
+43,High School,9,51.0,5,Software Engineer,MNC,134569
+32,Bachelor,21,96.0,5,Software Engineer,Government,209500
+40,High School,25,82.0,4,DevOps Engineer,Government,205974
+25,High School,26,67.0,0,Data Analyst,Government,159774
+57,Master,28,79.0,2,HR,MNC,207976
+58,PhD,19,99.0,4,Data Analyst,Government,210664
+50,Bachelor,26,46.0,5,HR,Startup,156222
+29,Master,19,62.0,0,DevOps Engineer,MNC,188932
+54,PhD,18,60.0,8,HR,Government,192008
+55,PhD,19,73.0,2,Data Scientist,Startup,206702
+42,PhD,34,50.0,9,Manager,Startup,257342
+44,Master,1,61.0,2,Manager,MNC,152310
+37,Master,29,81.0,1,Software Engineer,MNC,212371
+30,PhD,33,74.0,7,Data Scientist,Government,259889
+50,,21,91.0,2,Manager,Government,205277
+43,High School,2,68.0,5,DevOps Engineer,Government,129310
+52,Master,5,81.0,1,HR,MNC,149621
+37,Master,14,67.0,6,HR,Government,160359
+37,Master,26,98.0,3,Data Analyst,Government,217537
+34,PhD,9,57.0,8,Data Analyst,Startup,166154
+29,High School,8,53.0,9,HR,Startup,121148
+22,Master,32,57.0,8,DevOps Engineer,Startup,223383
+45,,31,67.0,6,HR,Government,214945
+59,Bachelor,5,63.0,7,Data Analyst,MNC,150013
+29,PhD,1,47.0,2,Manager,Startup,148849
+42,Bachelor,28,81.0,4,Software Engineer,MNC,219054
+24,High School,3,93.0,1,Data Analyst,Government,116578
+46,Bachelor,0,84.0,9,DevOps Engineer,Government,159509
+49,Bachelor,18,92.0,6,Manager,Startup,213160
+54,Bachelor,25,47.0,7,Manager,MNC,207423
+43,PhD,24,43.0,8,Manager,Startup,225621
+57,High School,9,66.0,6,Data Scientist,Government,157845
+31,Bachelor,14,75.0,9,Data Scientist,MNC,203991
+26,PhD,21,44.0,9,Manager,Startup,224139
+38,High School,20,72.0,7,DevOps Engineer,Government,183792
+41,Master,21,88.0,8,HR,Startup,199547
+56,Bachelor,33,73.0,5,DevOps Engineer,MNC,238250
+58,High School,29,69.0,9,Data Scientist,MNC,221387
+54,Bachelor,24,47.0,1,Data Analyst,MNC,161029
+37,Master,27,78.0,1,Data Scientist,MNC,224007
+57,High School,0,86.0,3,HR,MNC,114628
+45,PhD,3,65.0,8,Software Engineer,Startup,159589
+58,High School,6,96.0,6,Data Scientist,Startup,158234
+32,PhD,8,76.0,1,DevOps Engineer,Startup,161369
+43,High School,18,73.0,7,DevOps Engineer,Startup,170339
+42,PhD,0,46.0,6,Manager,Government,153615
+41,Master,9,79.0,8,Manager,Government,206752
+47,Master,8,67.0,7,Manager,Startup,179308
+51,Master,31,78.0,2,Software Engineer,Government,211584
+26,High School,31,78.0,0,HR,Government,185325
+47,Master,5,67.0,1,Data Analyst,MNC,142323
+54,Bachelor,16,53.0,1,DevOps Engineer,Startup,146944
+32,Master,9,92.0,3,DevOps Engineer,Government,190310
+27,PhD,26,89.0,5,HR,Government,216265
+30,PhD,34,77.0,3,Software Engineer,Startup,235084
+37,,20,43.0,8,Manager,MNC,214480
+46,High School,24,81.0,3,HR,Startup,173230
+41,Bachelor,27,57.0,5,Data Analyst,MNC,192685
+48,Master,14,83.0,5,Manager,Government,193211
+22,Bachelor,3,87.0,9,Data Analyst,MNC,166543
+21,Bachelor,28,64.0,9,Data Scientist,MNC,233776
+56,PhD,8,46.0,0,Data Analyst,Startup,129613
+46,PhD,26,77.0,7,Manager,Government,254626
+49,PhD,25,67.0,2,Data Scientist,Startup,223022
+41,High School,18,44.0,5,Manager,Startup,156783
+31,Bachelor,27,42.0,2,DevOps Engineer,Government,187078
+31,Bachelor,16,83.0,1,Manager,Startup,181421
+56,High School,19,70.0,4,Data Scientist,Startup,174561
+59,High School,22,86.0,0,Data Analyst,MNC,163798
+55,High School,31,81.0,8,DevOps Engineer,Startup,209726
+54,Bachelor,32,97.0,6,Software Engineer,Government,233809
+44,Bachelor,4,59.0,2,Software Engineer,Startup,114269
+42,,33,58.0,3,Software Engineer,MNC,231243
+25,PhD,10,87.0,5,Software Engineer,Startup,198786
+53,Bachelor,2,99.0,2,HR,Startup,131828
+56,PhD,32,50.0,6,Software Engineer,Startup,221301
+40,High School,10,79.0,5,Data Scientist,MNC,162654
+39,Master,15,42.0,8,Software Engineer,Government,166219
+55,PhD,17,62.0,4,Manager,Government,198125
+37,Bachelor,29,46.0,3,Software Engineer,MNC,193220
+54,PhD,9,62.0,2,Data Analyst,MNC,154911
+29,PhD,17,46.0,9,Data Scientist,Startup,195826
+46,PhD,18,85.0,0,Data Scientist,Government,200113
+22,Master,12,73.0,2,DevOps Engineer,MNC,181182
+29,High School,2,81.0,2,HR,Government,119182
+29,Bachelor,9,58.0,6,Manager,Startup,156558
+37,Master,0,97.0,6,Data Scientist,MNC,179902
+21,Bachelor,26,48.0,0,Data Analyst,Government,168321
+45,Bachelor,7,87.0,2,Software Engineer,Government,147099
+45,Bachelor,16,90.0,7,Data Scientist,Startup,196517
+59,Master,8,57.0,8,Data Analyst,MNC,149919
+55,High School,5,,6,Software Engineer,Government,155909
+23,Bachelor,24,87.0,6,HR,Startup,194803
+57,High School,27,84.0,7,Data Scientist,Government,227212
+50,High School,32,81.0,5,Data Scientist,Startup,220398
+58,PhD,8,64.0,2,Data Analyst,Government,161950
+54,Master,17,91.0,0,DevOps Engineer,Government,186778
+32,Master,20,53.0,6,Manager,Startup,191829
+39,PhD,1,83.0,0,HR,MNC,142561
+57,PhD,14,64.0,0,Manager,Startup,185971
+37,High School,27,58.0,8,Data Scientist,MNC,211047
+30,Bachelor,17,78.0,9,Manager,Government,216280
+32,Master,33,94.0,6,Software Engineer,Government,238257
+36,Bachelor,21,54.0,3,HR,Startup,158750
+44,Bachelor,10,55.0,5,Manager,Startup,161800
+39,PhD,12,66.0,0,Software Engineer,MNC,185264
+28,Bachelor,3,,6,Data Analyst,MNC,140241
+51,High School,21,49.0,5,Manager,MNC,184811
+41,PhD,6,43.0,3,HR,Startup,138432
+37,Bachelor,23,90.0,6,Software Engineer,Government,199601
+43,PhD,3,58.0,2,Manager,Startup,158329
+57,High School,27,67.0,0,Data Analyst,Government,168015
+36,High School,14,60.0,3,Manager,Startup,160732
+26,Bachelor,0,98.0,2,Software Engineer,Startup,141966
+28,PhD,2,86.0,0,Manager,MNC,180170
+45,Bachelor,13,53.0,1,HR,Government,130592
+38,Bachelor,0,72.0,4,Data Scientist,Startup,128381
+45,PhD,20,,7,Software Engineer,Startup,228030
+32,Bachelor,28,49.0,0,Software Engineer,Government,183115
+35,High School,4,58.0,3,Software Engineer,Startup,113166
+46,PhD,9,69.0,3,Software Engineer,Government,171149
+46,PhD,27,61.0,4,Manager,MNC,237928
+52,PhD,20,42.0,6,HR,MNC,179948
+30,PhD,6,76.0,7,Data Analyst,Government,182575
+36,Bachelor,2,80.0,5,HR,MNC,145312
+27,Bachelor,19,57.0,0,Software Engineer,Government,150846
+37,High School,18,50.0,6,DevOps Engineer,Startup,160820
+43,Master,34,87.0,2,Manager,Startup,250853
+46,Master,3,41.0,5,DevOps Engineer,Government,129072
+41,High School,4,51.0,7,Manager,Startup,136068
+42,Master,0,93.0,6,Software Engineer,MNC,159435
+27,High School,3,45.0,9,Manager,Startup,131413
+34,Bachelor,11,82.0,5,Software Engineer,Startup,171396
+35,PhD,26,98.0,8,HR,Government,241023
+27,PhD,22,79.0,8,Data Scientist,MNC,239594
+29,Bachelor,24,83.0,0,Manager,Startup,198137
+28,PhD,20,68.0,0,Software Engineer,Startup,179587
+43,PhD,23,98.0,0,DevOps Engineer,Government,220929
+49,Master,24,69.0,7,Software Engineer,Government,217669
+38,Bachelor,31,41.0,9,DevOps Engineer,MNC,214634
+51,Master,31,48.0,6,Manager,Startup,223648
+50,Master,4,86.0,2,Data Analyst,Government,152836
+59,PhD,15,41.0,1,DevOps Engineer,Government,168628
+55,PhD,32,68.0,3,Software Engineer,Government,238607
+38,Bachelor,20,72.0,2,Manager,MNC,189556
+59,PhD,8,49.0,6,Software Engineer,Government,168628
+37,PhD,5,73.0,9,Data Analyst,MNC,173989
+34,Bachelor,34,83.0,7,Data Scientist,MNC,258901
+51,PhD,21,94.0,5,Data Analyst,Startup,212758
+44,Master,4,47.0,2,HR,Startup,101845
+55,Bachelor,22,76.0,5,Manager,MNC,212552
+54,PhD,16,93.0,1,Data Analyst,Startup,188586
+23,High School,11,99.0,6,Data Scientist,Startup,178432
+57,Bachelor,22,72.0,9,Software Engineer,Government,194492
+46,Bachelor,15,86.0,6,Manager,Startup,204789
+43,High School,2,45.0,3,DevOps Engineer,MNC,109259
+59,PhD,29,83.0,7,Data Analyst,Startup,226712
+35,PhD,21,79.0,3,Data Scientist,Government,228737
+24,Bachelor,8,84.0,6,Data Analyst,MNC,156704
+49,Bachelor,28,58.0,3,HR,Startup,172858
+42,PhD,22,71.0,4,Manager,MNC,222812
+45,PhD,12,66.0,6,Software Engineer,Startup,176977
+33,Master,31,40.0,9,Data Scientist,Government,228087
+38,Bachelor,22,82.0,2,Data Analyst,Startup,173425
+53,Bachelor,16,91.0,9,Manager,MNC,212014
+36,High School,20,72.0,4,Data Analyst,MNC,177277
+22,Master,1,79.0,2,Manager,MNC,167362
+55,PhD,5,71.0,4,HR,Startup,150504
+54,Master,17,44.0,2,Data Analyst,Startup,141315
+50,PhD,29,,9,HR,Startup,215817
+33,PhD,21,47.0,6,DevOps Engineer,Government,199110
+33,Master,32,96.0,0,DevOps Engineer,Government,234788
+38,Bachelor,29,81.0,8,Data Scientist,Government,240806
+52,PhD,16,73.0,8,HR,MNC,205536
+52,Master,31,48.0,4,Manager,MNC,228296
+55,High School,13,95.0,8,Data Scientist,MNC,206089
+59,Master,9,62.0,9,Data Analyst,MNC,174801
+49,High School,33,,5,Data Analyst,MNC,211904
+49,,8,,4,Manager,Startup,191806
+36,Master,27,46.0,2,Software Engineer,MNC,192772
+30,Master,10,54.0,7,Software Engineer,Startup,164936
+50,High School,13,92.0,3,Data Analyst,Government,160243
+45,Master,18,93.0,9,Manager,Government,227579
+59,Master,14,59.0,2,Software Engineer,Government,162734
+40,PhD,27,89.0,5,HR,Government,217890
+25,Master,23,64.0,7,Data Analyst,Government,189797
+21,Bachelor,7,42.0,8,DevOps Engineer,MNC,155591
+50,High School,8,99.0,5,HR,MNC,151293
+23,Master,32,94.0,4,Manager,MNC,248773
+34,High School,32,85.0,1,DevOps Engineer,Government,205757
+50,High School,18,63.0,1,HR,Government,133192
+24,High School,2,73.0,8,Software Engineer,Startup,128006
+38,Master,9,85.0,1,Software Engineer,MNC,160570
+57,Master,0,61.0,1,DevOps Engineer,Government,132784
+45,High School,28,50.0,2,Data Scientist,Government,171307
+21,Bachelor,33,87.0,2,Data Analyst,Government,203142
+35,High School,12,47.0,3,DevOps Engineer,Startup,130874
+29,Bachelor,0,78.0,6,Manager,Government,148365
+35,High School,33,82.0,8,Data Analyst,Startup,207864
+44,PhD,28,74.0,1,HR,Startup,197535
+24,High School,12,88.0,3,Manager,MNC,186802
+32,High School,28,85.0,8,Manager,Government,232931
+57,Master,23,77.0,1,Software Engineer,Startup,190777
+57,Bachelor,25,47.0,9,HR,Government,180674
+26,PhD,16,93.0,0,Software Engineer,MNC,209397
+59,Bachelor,6,76.0,9,Software Engineer,MNC,168236
+44,PhD,12,66.0,7,Data Scientist,Startup,194796
+31,High School,4,67.0,8,Software Engineer,MNC,152823
+33,Master,25,79.0,6,Data Analyst,MNC,202849
+54,Master,2,73.0,7,Manager,MNC,186767
+45,Bachelor,6,71.0,3,Software Engineer,Government,138375
+27,Master,0,54.0,3,DevOps Engineer,Government,123463
+24,Bachelor,16,83.0,1,Data Analyst,Startup,152576
+28,Bachelor,24,56.0,7,HR,Startup,172228
+40,PhD,2,72.0,1,Manager,MNC,183223
+49,Bachelor,14,86.0,8,DevOps Engineer,MNC,204277
+30,PhD,28,85.0,3,DevOps Engineer,Startup,230643
+54,Master,31,91.0,0,HR,MNC,220831
+46,Bachelor,25,93.0,3,DevOps Engineer,Startup,216484
+23,Bachelor,15,55.0,2,Data Analyst,Government,133910
+26,High School,24,68.0,5,HR,MNC,163332
+25,Bachelor,27,48.0,6,DevOps Engineer,MNC,208997
+25,Bachelor,8,72.0,7,HR,MNC,146009
+43,High School,0,99.0,1,HR,Government,118434
+29,High School,28,88.0,5,Software Engineer,Government,201056
+55,Master,21,68.0,5,Software Engineer,MNC,204612
+40,Bachelor,15,52.0,9,Software Engineer,Startup,159235
+55,Master,6,60.0,4,DevOps Engineer,Government,159545
+38,Master,13,97.0,9,Manager,MNC,230214
+37,High School,28,,9,Data Analyst,MNC,191056
+44,PhD,18,44.0,6,DevOps Engineer,Government,186553
+23,Master,18,49.0,2,Software Engineer,Startup,151672
+52,PhD,1,45.0,3,HR,MNC,132234
+55,Bachelor,14,95.0,9,DevOps Engineer,Startup,198136
+58,High School,2,90.0,8,HR,Startup,125376
+33,Bachelor,10,96.0,3,HR,Government,154681
+45,Bachelor,29,52.0,2,HR,MNC,175157
+29,High School,17,40.0,1,Data Scientist,MNC,154947
+24,Bachelor,1,59.0,4,Manager,Startup,142513
+34,High School,31,96.0,3,Data Analyst,Government,198558
+57,PhD,7,86.0,7,Data Analyst,Government,192047
+54,Bachelor,21,85.0,6,Software Engineer,Government,209472
+31,High School,5,47.0,5,Data Scientist,Startup,131924
+23,Master,11,49.0,1,DevOps Engineer,Startup,148419
+48,Bachelor,14,48.0,2,DevOps Engineer,MNC,149139
+49,PhD,27,88.0,9,Data Analyst,Government,249957
+29,High School,17,80.0,8,Manager,Startup,188094
+23,Bachelor,1,42.0,8,HR,Government,104803
+45,Bachelor,12,50.0,4,Software Engineer,Startup,137364
+54,Bachelor,14,51.0,2,Manager,MNC,157149
+32,PhD,19,49.0,1,Data Analyst,Government,164606
+29,High School,28,64.0,7,Data Scientist,Startup,191669
+35,Master,28,88.0,5,Software Engineer,Government,222679
+45,Master,2,88.0,9,Data Analyst,Startup,155907
+25,Master,18,64.0,6,DevOps Engineer,Startup,181459
+31,High School,2,50.0,0,Software Engineer,Startup,88602
+54,Master,13,93.0,0,Data Analyst,Government,166184
+44,PhD,3,75.0,9,DevOps Engineer,Startup,190832
+35,,10,78.0,1,DevOps Engineer,MNC,156985
+58,Bachelor,30,92.0,9,HR,Government,222383
+28,PhD,31,65.0,2,Data Scientist,MNC,248337
+25,Bachelor,26,53.0,0,HR,MNC,157231
+46,Master,29,78.0,4,Data Analyst,Government,200458
+38,PhD,1,95.0,2,Manager,Startup,186771
+26,High School,8,79.0,0,HR,MNC,128903
+57,PhD,27,40.0,7,Manager,Government,232746
+33,Bachelor,30,95.0,5,DevOps Engineer,Startup,233716
+48,High School,33,93.0,8,Data Analyst,Government,220041
+25,PhD,14,43.0,2,Data Scientist,Government,176319
+33,PhD,24,69.0,8,Manager,Government,242020
+37,PhD,7,51.0,8,Data Analyst,Startup,165422
+52,PhD,8,95.0,0,Manager,MNC,201052
+49,High School,31,74.0,2,HR,MNC,186601
+23,Bachelor,16,52.0,5,Data Analyst,Government,150915
+54,PhD,34,91.0,7,HR,Government,240591
+47,High School,18,70.0,3,Software Engineer,Startup,165689
+33,Bachelor,28,77.0,4,Data Analyst,Government,200985
+53,PhD,6,82.0,8,Manager,Government,200592
+26,Bachelor,27,62.0,5,Software Engineer,Government,202028
+44,Bachelor,8,43.0,6,HR,MNC,136824
+39,High School,27,91.0,6,HR,Government,202377
+36,Bachelor,5,55.0,3,Manager,MNC,150362
+48,High School,28,46.0,3,Software Engineer,Startup,172908
+53,PhD,16,61.0,3,DevOps Engineer,Startup,185877
+33,Bachelor,15,68.0,4,Data Scientist,MNC,178744
+45,Bachelor,22,50.0,4,Manager,MNC,186782
+56,Master,30,95.0,7,HR,MNC,232552
+47,PhD,2,72.0,8,Data Analyst,MNC,178921
+58,PhD,20,97.0,1,Software Engineer,Government,209798
+27,Master,25,,6,DevOps Engineer,MNC,225319
+25,Master,21,98.0,0,Data Scientist,MNC,210254
+51,High School,11,78.0,0,Data Analyst,MNC,129878
+43,High School,12,51.0,3,Software Engineer,Government,138509
+30,Bachelor,10,46.0,9,DevOps Engineer,Government,155609
+52,,15,98.0,6,Manager,Government,211623
+50,Bachelor,7,94.0,1,DevOps Engineer,Startup,150613
+59,Bachelor,1,78.0,1,Manager,Government,142708
+51,High School,29,81.0,0,Software Engineer,MNC,197917
+38,PhD,29,87.0,9,DevOps Engineer,Government,262264
+56,Bachelor,11,65.0,1,Data Scientist,Government,157214
+22,PhD,9,79.0,6,DevOps Engineer,MNC,203676
+34,Bachelor,10,48.0,8,Software Engineer,Government,160655
+33,Master,14,80.0,5,Data Analyst,Startup,161916
+49,Bachelor,15,73.0,9,Data Analyst,Government,174925
+32,Bachelor,16,84.0,1,DevOps Engineer,Startup,180020
+59,Bachelor,25,52.0,9,DevOps Engineer,Startup,204422
+22,High School,1,,9,Manager,Startup,159307
+52,Master,11,94.0,8,Software Engineer,MNC,210589
+33,Bachelor,25,,6,Manager,Government,211485
+47,Bachelor,22,64.0,0,Data Scientist,Startup,183916
+37,PhD,17,63.0,8,Data Analyst,Startup,191561
+51,Master,31,83.0,1,HR,Government,211305
+54,Bachelor,2,56.0,3,HR,MNC,115108
+44,PhD,2,41.0,8,Software Engineer,MNC,151054
+55,PhD,29,52.0,3,Software Engineer,Startup,211409
+26,High School,0,70.0,2,HR,MNC,102101
+39,PhD,29,68.0,0,Software Engineer,Government,209843
+50,Bachelor,31,89.0,6,Data Analyst,MNC,221751
+27,High School,27,67.0,5,Data Scientist,Government,196414
+30,High School,20,99.0,9,Data Scientist,Startup,204712
+52,Bachelor,12,66.0,3,Manager,Government,177941
+54,Master,26,54.0,5,Data Analyst,Startup,192665
+48,PhD,6,70.0,5,Software Engineer,Government,173140
+35,High School,21,79.0,3,Software Engineer,Government,177071
+50,Master,9,54.0,5,Manager,MNC,183450
+57,Bachelor,14,72.0,9,Manager,Government,195619
+49,PhD,14,59.0,7,Software Engineer,Startup,184463
+42,PhD,3,81.0,2,Software Engineer,Government,157670
+24,High School,31,51.0,3,Data Analyst,Startup,167930
+40,PhD,22,76.0,9,Manager,Startup,246743
+52,PhD,5,48.0,0,Data Analyst,Government,140376
+56,PhD,23,62.0,3,DevOps Engineer,MNC,209013
+24,PhD,19,47.0,9,Software Engineer,Government,205814
+47,Bachelor,19,71.0,9,HR,Government,176949
+37,Master,11,87.0,8,HR,MNC,184314
+32,Bachelor,32,53.0,7,DevOps Engineer,Startup,213107
+42,Bachelor,27,66.0,3,Software Engineer,Government,194623
+37,High School,7,64.0,6,Manager,MNC,163342
+30,PhD,0,52.0,9,HR,MNC,156354
+21,Bachelor,21,94.0,2,Manager,Startup,207481
+42,PhD,5,60.0,8,HR,MNC,165630
+46,Bachelor,20,84.0,9,Manager,Startup,209205
+38,Bachelor,31,70.0,3,HR,Government,191362
+34,High School,34,76.0,1,Manager,MNC,226449
+49,Master,14,87.0,9,DevOps Engineer,Government,210839
+32,Master,4,97.0,4,Data Analyst,MNC,168867
+56,Bachelor,5,82.0,1,Manager,MNC,158748
+55,High School,24,93.0,9,Data Analyst,Government,198917
+32,PhD,28,44.0,5,Data Analyst,MNC,213811
+27,PhD,6,52.0,9,Software Engineer,Government,169543
+49,Bachelor,12,67.0,0,DevOps Engineer,Government,156409
+31,Master,17,82.0,5,Data Analyst,Startup,179958
+53,High School,1,64.0,3,Data Scientist,Government,124696
+26,Master,7,90.0,2,Data Analyst,Startup,153271
+35,PhD,10,,1,Manager,Government,185072
+52,Master,32,86.0,6,Data Analyst,MNC,234566
+31,PhD,26,78.0,8,Manager,Government,259024
+43,High School,19,46.0,2,Manager,MNC,169128
+46,High School,11,77.0,5,Data Scientist,Startup,167424
+54,Bachelor,30,71.0,8,Data Analyst,MNC,207447
+54,Bachelor,26,42.0,1,Data Analyst,Government,156697
+49,Master,31,84.0,6,HR,MNC,215907
+24,High School,9,78.0,4,HR,Startup,135550
+37,High School,2,76.0,4,Software Engineer,MNC,140735
+55,Bachelor,26,94.0,6,Manager,MNC,236445
+33,PhD,34,89.0,8,Data Scientist,Government,275770
+59,Master,30,61.0,3,HR,Government,185858
+35,Master,14,47.0,8,Data Analyst,MNC,165905
+49,Bachelor,15,56.0,9,Software Engineer,Startup,175486
+49,High School,12,91.0,8,Data Scientist,MNC,190625
+31,Bachelor,34,66.0,3,DevOps Engineer,Startup,213840
+52,Bachelor,10,72.0,2,Data Analyst,Startup,130566
+22,Bachelor,20,85.0,1,Data Analyst,Startup,176809
+34,Bachelor,10,56.0,8,DevOps Engineer,MNC,173276
+40,PhD,29,81.0,1,Manager,Startup,246577
+42,PhD,34,51.0,5,Manager,MNC,249978
+31,High School,21,87.0,4,HR,Startup,156171
+47,,30,85.0,4,HR,Startup,197940
+23,PhD,13,66.0,3,Data Analyst,MNC,175867
+37,High School,23,87.0,5,Data Analyst,Government,174956
+48,Bachelor,31,,4,HR,Government,178550
+49,Master,31,62.0,3,DevOps Engineer,MNC,211051
+41,PhD,14,99.0,8,HR,MNC,220901
+36,High School,34,81.0,5,Data Analyst,Government,209234
+57,Master,2,88.0,9,Data Scientist,Government,181639
+40,Bachelor,15,,9,Data Analyst,Government,201526
+26,Bachelor,4,68.0,9,Data Scientist,MNC,174259
+39,Bachelor,20,89.0,2,Data Scientist,Startup,189603
+25,PhD,9,59.0,9,Data Analyst,MNC,189853
+23,High School,18,55.0,5,Software Engineer,Government,166997
+21,Master,24,56.0,0,HR,Startup,152177
+58,High School,3,55.0,4,Manager,MNC,140541
+35,PhD,28,58.0,9,Data Analyst,Government,213022
+54,High School,18,95.0,5,Data Scientist,MNC,203485
+55,PhD,1,95.0,7,Data Analyst,Startup,176474
+45,Bachelor,9,47.0,8,HR,Government,127772
+44,Master,24,77.0,2,DevOps Engineer,MNC,215983
+32,Bachelor,19,77.0,1,Data Scientist,Startup,171342
+38,High School,18,92.0,3,Manager,Startup,188350
+35,Bachelor,22,68.0,7,Manager,MNC,219882
+36,Master,23,80.0,7,Manager,Startup,230981
+47,Bachelor,10,75.0,2,DevOps Engineer,Government,149979
+28,Master,33,65.0,3,Software Engineer,Startup,206626
+45,Master,27,70.0,2,Data Scientist,MNC,218277
+37,Bachelor,4,83.0,9,DevOps Engineer,Government,165247
+49,PhD,4,99.0,1,Data Scientist,Startup,177743
+28,High School,20,51.0,3,DevOps Engineer,Startup,144779
+35,PhD,11,94.0,5,DevOps Engineer,Government,203877
+47,PhD,3,56.0,4,Software Engineer,Government,156601
+27,Bachelor,19,54.0,2,Data Scientist,Startup,158523
+23,High School,24,48.0,1,DevOps Engineer,Government,154169
+49,High School,13,78.0,8,Software Engineer,MNC,176064
+44,PhD,10,81.0,0,Data Analyst,Startup,165468
+23,Bachelor,31,,8,HR,MNC,229907
+40,High School,10,51.0,0,DevOps Engineer,Startup,126949
+35,PhD,17,71.0,6,Manager,MNC,217823
+45,High School,26,64.0,5,Software Engineer,MNC,181203
+50,Bachelor,17,78.0,6,Software Engineer,Government,194062
+34,Bachelor,22,57.0,2,DevOps Engineer,Startup,177615
+27,Bachelor,10,54.0,2,Software Engineer,Government,136285
+37,High School,20,71.0,0,Data Analyst,Government,151500
+40,Master,4,45.0,3,Software Engineer,Startup,132623
+56,High School,22,97.0,1,HR,MNC,178698
+29,Master,24,83.0,9,HR,Startup,200080
+58,Bachelor,9,82.0,7,Manager,Startup,174778
+42,PhD,21,91.0,2,Data Analyst,Startup,194149
+22,Master,18,74.0,6,HR,Government,189644
+44,Bachelor,0,73.0,6,DevOps Engineer,Startup,147612
+28,Bachelor,6,77.0,8,Data Scientist,Startup,176438
+31,Master,3,95.0,5,Data Scientist,Startup,181621
+33,PhD,0,93.0,0,Data Scientist,MNC,175058
+37,Bachelor,14,96.0,7,DevOps Engineer,MNC,201897
+28,Master,11,44.0,0,Software Engineer,MNC,148793
+41,,21,57.0,2,DevOps Engineer,MNC,203433
+38,PhD,21,55.0,4,Software Engineer,Government,197586
+50,Bachelor,16,47.0,7,Data Scientist,Government,164156
+38,High School,28,64.0,8,Manager,Startup,200520
+51,High School,13,71.0,6,Manager,Government,178441
+58,Bachelor,19,65.0,8,Software Engineer,MNC,198234
+52,PhD,32,91.0,2,Data Scientist,Startup,246776
+31,Bachelor,14,61.0,4,DevOps Engineer,Startup,150771
+45,Master,11,70.0,9,Manager,MNC,195122
+53,High School,19,82.0,7,Software Engineer,MNC,182966
+58,Master,29,49.0,0,DevOps Engineer,MNC,195442
+28,Bachelor,2,95.0,7,Data Scientist,Government,163397
+31,Bachelor,27,96.0,6,Data Analyst,Startup,205973
+42,PhD,25,51.0,0,Data Scientist,MNC,203981
+44,PhD,29,92.0,9,Data Scientist,Startup,267522
+37,PhD,12,67.0,9,DevOps Engineer,Startup,202184
+32,Master,12,45.0,5,DevOps Engineer,Government,161899
+52,PhD,1,98.0,0,HR,Startup,145983
+35,Bachelor,1,59.0,1,HR,MNC,106171
+36,PhD,25,44.0,4,DevOps Engineer,MNC,219619
+42,High School,10,62.0,1,DevOps Engineer,Startup,132107
+48,PhD,7,48.0,9,Data Analyst,Startup,156188
+40,Master,21,97.0,0,Data Analyst,Government,193540
+53,High School,19,98.0,5,Data Scientist,MNC,212945
+30,High School,7,68.0,7,Manager,MNC,167193
+52,High School,28,55.0,7,Data Analyst,Startup,181000
+53,Master,25,93.0,7,Data Scientist,Startup,229385
+22,Bachelor,29,85.0,5,Software Engineer,Startup,208507
+53,PhD,16,61.0,2,HR,MNC,169530
+53,High School,19,47.0,0,Manager,Startup,144961
+33,,15,98.0,1,Data Scientist,Government,183619
+50,High School,6,59.0,4,DevOps Engineer,Government,123959
+53,Bachelor,15,90.0,9,Software Engineer,Startup,201006
+33,Bachelor,26,53.0,4,HR,Government,170635
+46,Master,22,78.0,9,Software Engineer,Government,220602
+42,Bachelor,23,76.0,0,Data Scientist,Government,198670
+59,PhD,8,89.0,0,Data Analyst,Government,161982
+22,Master,34,73.0,8,HR,Government,230802
+58,Master,19,50.0,1,Software Engineer,MNC,171439
+59,PhD,16,93.0,6,Data Analyst,Startup,201926
+46,PhD,30,79.0,9,Manager,Government,276566
+35,PhD,7,72.0,3,Data Scientist,Startup,172149
+54,Master,14,70.0,6,Data Scientist,Government,201195
+31,Master,30,98.0,7,HR,MNC,237245
+23,Master,29,93.0,4,Software Engineer,MNC,242868
+26,PhD,19,83.0,0,Manager,Government,215310
+29,PhD,11,73.0,3,DevOps Engineer,Government,186413
+26,High School,16,89.0,9,HR,Government,177069
+29,Bachelor,29,46.0,2,DevOps Engineer,MNC,194861
+59,High School,28,97.0,9,HR,MNC,214629
+51,PhD,18,88.0,4,Software Engineer,Startup,214280
+52,Master,10,93.0,9,Manager,MNC,223247
+32,PhD,33,62.0,9,Software Engineer,Government,248162
+28,Bachelor,6,85.0,5,Data Scientist,Startup,156865
+28,High School,33,95.0,1,DevOps Engineer,MNC,225195
+48,High School,19,46.0,6,Data Analyst,MNC,153737
+40,Master,23,93.0,2,Data Scientist,Government,219830
+27,High School,9,64.0,0,Data Scientist,Startup,139538
+31,High School,31,42.0,9,DevOps Engineer,MNC,209452
+40,PhD,14,98.0,2,HR,MNC,187328
+36,High School,19,77.0,8,Data Scientist,Government,202699
+24,High School,2,59.0,9,Manager,Startup,148777
+26,High School,7,73.0,5,Data Scientist,Startup,143538
+42,Master,22,88.0,5,Manager,Startup,211731
+46,Master,10,83.0,3,Software Engineer,Startup,177077
+23,PhD,7,83.0,7,HR,Government,166893
+34,High School,28,69.0,4,Manager,MNC,215027
+31,Master,29,56.0,6,Data Scientist,MNC,225188
+38,Master,9,98.0,8,HR,Startup,171946
+32,PhD,27,49.0,4,HR,Startup,186384
+43,Bachelor,12,74.0,4,Manager,Startup,180470
+32,High School,31,59.0,3,Manager,MNC,206441
+33,Master,25,57.0,5,Data Analyst,MNC,193832
+45,PhD,21,84.0,1,Data Analyst,Startup,195195
+39,PhD,3,83.0,2,HR,Government,146903
+56,PhD,30,66.0,0,DevOps Engineer,MNC,235700
+28,Master,17,98.0,1,DevOps Engineer,MNC,202544
+49,High School,23,98.0,1,Data Analyst,Startup,173711
+52,Bachelor,22,88.0,7,Data Scientist,Government,218128
+38,High School,21,75.0,7,Software Engineer,Startup,188619
+26,PhD,1,62.0,1,HR,Startup,114899
+38,PhD,30,71.0,5,Software Engineer,Government,228460
+39,Bachelor,10,49.0,4,Data Analyst,Government,125416
+42,High School,27,50.0,2,Manager,Government,177911
+57,PhD,31,77.0,4,HR,MNC,228762
+52,PhD,4,45.0,4,Data Analyst,Startup,134613
+23,High School,9,98.0,4,Data Scientist,MNC,171783
+48,PhD,23,80.0,2,HR,Government,208145
+30,High School,34,86.0,2,HR,MNC,206182
+55,PhD,22,73.0,3,DevOps Engineer,Government,206953
+49,High School,16,75.0,6,Manager,Government,188579
+35,,0,76.0,1,HR,Startup,103095
+53,PhD,30,56.0,9,Manager,Startup,255574
+27,Bachelor,30,79.0,3,Data Analyst,Startup,197235
+32,PhD,33,79.0,3,Data Scientist,MNC,259352
+50,PhD,8,93.0,0,Data Scientist,Startup,191153
+41,Master,21,51.0,9,HR,Government,171062
+51,High School,12,60.0,7,HR,Startup,127527
+44,,24,79.0,0,Data Analyst,MNC,182547
+40,Bachelor,17,58.0,7,DevOps Engineer,Startup,181703
+57,Bachelor,11,42.0,6,DevOps Engineer,Startup,138695
+24,High School,16,57.0,8,DevOps Engineer,Startup,166696
+48,Master,14,92.0,7,Manager,MNC,223134
+40,Bachelor,14,90.0,4,DevOps Engineer,Government,175527
+44,High School,14,58.0,7,Data Scientist,Government,159522
+52,PhD,12,86.0,9,Manager,Government,223049
+56,Bachelor,16,45.0,2,Data Analyst,Startup,140046
+54,Bachelor,31,55.0,9,Data Scientist,Startup,220956
+56,Master,8,47.0,6,Data Scientist,MNC,173130
+22,Bachelor,19,87.0,3,Software Engineer,Government,184359
+35,Bachelor,25,57.0,4,Data Analyst,Startup,162486
+54,PhD,26,91.0,8,Data Analyst,Startup,232662
+56,High School,20,,6,Software Engineer,Startup,193567
+26,High School,17,82.0,3,Manager,MNC,194319
+59,Master,12,78.0,5,DevOps Engineer,Government,177923
+32,PhD,15,88.0,9,DevOps Engineer,MNC,221545
+23,High School,8,88.0,6,DevOps Engineer,Government,172009
+38,PhD,11,51.0,9,DevOps Engineer,Government,190163
+41,High School,18,84.0,8,DevOps Engineer,Startup,195543
+35,PhD,6,49.0,3,Software Engineer,Startup,153737
+53,Master,34,46.0,9,Data Analyst,Startup,216055
+55,Bachelor,17,85.0,2,Manager,Startup,194411
+46,Master,15,94.0,7,Data Scientist,Startup,210147
+28,High School,3,40.0,0,DevOps Engineer,Government,93736
+56,Master,24,88.0,8,Software Engineer,Startup,224087
+50,Bachelor,31,75.0,0,Manager,Startup,211848
+43,Master,12,60.0,1,Manager,MNC,178155
+34,High School,16,76.0,7,Manager,MNC,195455
+34,,5,91.0,8,Software Engineer,Government,152179
+22,Master,18,63.0,6,Data Scientist,Government,196107
+57,Bachelor,12,94.0,2,DevOps Engineer,MNC,174126
+25,Master,25,64.0,6,Manager,MNC,217630
+58,Bachelor,13,46.0,5,Software Engineer,Startup,135702
+34,PhD,30,81.0,1,Data Analyst,Startup,214434
+59,Bachelor,3,56.0,2,Software Engineer,Government,119148
+45,PhD,7,68.0,9,Software Engineer,MNC,188937
+40,Master,24,69.0,9,Software Engineer,Government,217696
+22,Bachelor,12,46.0,4,Manager,Startup,151554
+59,PhD,31,,9,Software Engineer,Government,254151
+26,PhD,27,46.0,3,Data Analyst,Government,186229
+37,PhD,29,97.0,1,Manager,Government,256609
+45,High School,2,63.0,3,Data Analyst,Startup,110914
+48,Master,27,50.0,7,HR,Government,182412
+22,PhD,2,48.0,4,Software Engineer,Startup,148516
+55,Bachelor,33,51.0,4,DevOps Engineer,MNC,218476
+57,PhD,15,74.0,9,DevOps Engineer,Government,217616
+25,High School,21,43.0,2,Manager,Government,155021
+21,Master,31,75.0,7,DevOps Engineer,Startup,234510
+32,High School,7,67.0,5,Manager,Government,163602
+56,High School,7,96.0,1,Software Engineer,Startup,143852
+43,High School,5,52.0,1,Data Scientist,Government,117517
+51,Bachelor,13,62.0,8,Data Scientist,MNC,176095
+31,Master,31,58.0,6,Data Analyst,MNC,207329
+30,Master,34,81.0,9,Software Engineer,MNC,249005
+23,Bachelor,9,76.0,8,DevOps Engineer,Government,172777
+34,Master,2,78.0,5,Software Engineer,Government,160480
+36,High School,11,63.0,4,HR,MNC,132945
+30,Master,30,55.0,0,Data Scientist,MNC,215726
+49,Bachelor,28,72.0,5,DevOps Engineer,Startup,200600
+30,High School,4,51.0,5,Data Scientist,Startup,125574
+32,Bachelor,24,73.0,2,Software Engineer,MNC,182394
+50,PhD,30,46.0,2,DevOps Engineer,MNC,214297
+21,High School,20,50.0,2,Data Analyst,Government,137412
+25,High School,19,70.0,2,Software Engineer,MNC,166336
+40,Master,21,68.0,6,Data Analyst,Startup,184925
+28,High School,3,52.0,9,DevOps Engineer,Startup,127578
+32,Bachelor,12,70.0,1,Data Scientist,Startup,162735
+21,Master,19,41.0,9,HR,Startup,158943
+40,,12,78.0,9,Manager,Startup,223094
+48,Bachelor,16,54.0,1,Data Scientist,Startup,154575
+57,PhD,32,96.0,2,Data Analyst,MNC,244617
+57,PhD,0,50.0,9,Software Engineer,Startup,151678
+32,PhD,14,73.0,6,DevOps Engineer,Startup,193964
+57,High School,12,78.0,2,Data Scientist,Startup,159067
+48,Bachelor,16,43.0,6,HR,Startup,129748
+35,Bachelor,23,50.0,8,DevOps Engineer,MNC,202177
+26,High School,7,68.0,9,Data Analyst,Government,148018
+40,Master,26,41.0,3,DevOps Engineer,Government,180081
+34,PhD,22,55.0,6,DevOps Engineer,Government,217989
+22,Bachelor,7,78.0,8,Software Engineer,Government,167845
+29,High School,7,52.0,7,Manager,Startup,140718
+57,PhD,25,76.0,7,Data Analyst,Government,221586
+40,Master,12,56.0,8,Software Engineer,Government,163581
+46,Master,27,60.0,4,Manager,MNC,215856
+49,PhD,24,83.0,4,Software Engineer,MNC,226018
+21,Master,15,99.0,2,Manager,MNC,204116
+55,Bachelor,1,58.0,4,Manager,Startup,130554
+26,Bachelor,17,46.0,7,Manager,Startup,178807
+57,Bachelor,16,77.0,4,Software Engineer,Startup,164974
+25,Master,29,47.0,3,DevOps Engineer,MNC,209211
+53,Bachelor,12,,7,Manager,Government,179690
+34,High School,31,76.0,6,DevOps Engineer,MNC,216321
+32,Bachelor,28,41.0,5,Data Analyst,Startup,175746
+40,Bachelor,29,80.0,4,HR,MNC,206626
+44,Master,17,50.0,4,DevOps Engineer,Government,173154
+54,Bachelor,12,63.0,9,HR,Startup,153972
+45,PhD,20,45.0,1,Manager,Government,201826
+49,High School,29,65.0,3,HR,Government,176951
+59,Master,20,46.0,7,HR,Startup,161549
+51,High School,16,,7,Manager,Government,212893
+43,PhD,18,78.0,0,DevOps Engineer,MNC,212310
+58,Master,14,58.0,1,Manager,Government,174509
+40,Master,8,45.0,4,Data Analyst,Government,134260
+43,Bachelor,9,82.0,8,Data Scientist,Government,185484
+36,High School,30,68.0,9,Software Engineer,MNC,206706
+28,PhD,22,82.0,6,Manager,Government,244069
+41,PhD,29,78.0,9,Manager,Government,257038
+21,Master,32,41.0,4,HR,MNC,183183
+28,Bachelor,8,58.0,0,Data Analyst,Startup,106975
+49,Master,0,43.0,5,HR,Startup,105115
+52,Master,34,97.0,7,DevOps Engineer,Startup,260528
+58,Master,10,45.0,6,Manager,Government,178232
+25,Master,33,88.0,1,Manager,Startup,242160
+42,PhD,15,96.0,4,HR,MNC,208563
+54,PhD,8,76.0,3,Manager,Government,192854
+21,Master,31,67.0,8,DevOps Engineer,Government,241719
+46,Master,14,69.0,9,Data Scientist,Government,204553
+30,Bachelor,11,46.0,0,Software Engineer,Startup,126265
+50,Master,32,48.0,5,Software Engineer,Startup,193687
+38,PhD,13,64.0,2,Software Engineer,Startup,172732
+37,High School,7,72.0,8,Data Scientist,Government,160664
+46,PhD,7,40.0,4,Manager,MNC,162678
+28,Bachelor,26,90.0,5,HR,Government,204546
+32,PhD,11,,8,Data Analyst,MNC,165640
+47,High School,0,57.0,8,Manager,Government,138097
+28,Master,10,49.0,7,Data Scientist,MNC,184032
+45,High School,30,67.0,8,DevOps Engineer,Government,203321
+24,Master,16,50.0,3,Data Scientist,Government,174947
+53,Master,32,72.0,5,Software Engineer,MNC,221617
+21,PhD,31,40.0,4,Manager,MNC,224974
+39,PhD,28,52.0,4,Software Engineer,MNC,209329
+51,PhD,20,76.0,3,Data Analyst,MNC,200158
+36,Bachelor,20,59.0,1,DevOps Engineer,MNC,165802
+34,PhD,22,40.0,5,Software Engineer,MNC,188420
+25,Bachelor,5,91.0,8,Data Analyst,MNC,168780
+46,PhD,21,42.0,0,Data Scientist,MNC,197740
+48,Master,7,57.0,6,Software Engineer,Government,151230
+22,Bachelor,34,80.0,5,Software Engineer,MNC,238833
+26,High School,10,53.0,2,HR,MNC,113911
+29,Bachelor,23,70.0,0,DevOps Engineer,Government,180119
+53,Bachelor,20,66.0,3,DevOps Engineer,Government,183727
+45,High School,1,56.0,8,Data Scientist,Startup,136923
+33,Bachelor,18,94.0,1,HR,Startup,153906
+29,Master,27,85.0,2,Data Analyst,MNC,202049
+33,PhD,16,68.0,1,Data Analyst,MNC,178889
+51,High School,5,75.0,1,Data Scientist,Startup,124903
+31,PhD,18,76.0,9,DevOps Engineer,Startup,230154
+24,Master,27,65.0,7,Data Analyst,MNC,210493
+54,High School,1,92.0,2,Data Scientist,Startup,133276
+58,PhD,3,56.0,6,Data Analyst,MNC,144742
+24,PhD,21,61.0,7,Manager,Government,217777
+58,Master,25,64.0,2,Software Engineer,Government,195682
+39,PhD,12,41.0,1,DevOps Engineer,Startup,152585
+26,Master,31,94.0,7,Manager,Government,257876
+54,Bachelor,16,61.0,2,Data Scientist,Government,171806
+38,Master,18,44.0,6,Data Scientist,Government,185463
+33,Bachelor,34,43.0,0,Manager,Government,193677
+43,High School,27,75.0,5,Software Engineer,MNC,209622
+39,PhD,0,45.0,8,Software Engineer,MNC,161642
+31,Master,17,91.0,2,HR,Startup,167444
+21,Master,32,60.0,6,Data Analyst,Government,202134
+44,PhD,11,52.0,5,HR,Government,152792
+27,PhD,7,93.0,7,Software Engineer,Government,192921
+45,High School,23,76.0,2,Manager,Startup,182476
+41,High School,15,94.0,2,Data Analyst,MNC,164884
+35,Master,3,64.0,3,Manager,Government,162419
+21,High School,26,65.0,2,HR,MNC,162328
+32,Bachelor,8,94.0,8,Data Scientist,Startup,175095
+27,High School,15,78.0,3,Manager,MNC,171513
+35,High School,11,59.0,5,HR,Government,128987
+41,Master,30,72.0,7,HR,MNC,220716
+39,Bachelor,23,53.0,7,HR,MNC,172268
+49,High School,13,95.0,4,Data Scientist,Startup,181344
+45,Bachelor,24,75.0,4,Data Scientist,Startup,197695
+53,Bachelor,33,56.0,5,Data Scientist,Startup,218261
+52,Bachelor,2,60.0,9,Data Analyst,Startup,123354
+55,PhD,23,85.0,6,Data Scientist,MNC,240482
+58,PhD,8,55.0,9,Data Scientist,MNC,201576
+46,PhD,25,85.0,6,Data Scientist,Startup,245376
+31,PhD,19,55.0,3,Manager,Startup,193271
+55,Master,9,95.0,5,Data Scientist,Government,194674
+28,High School,18,59.0,6,Data Analyst,Government,149692
+34,PhD,2,68.0,4,HR,Startup,146273
+30,Master,23,67.0,4,Manager,MNC,220709
+22,High School,4,47.0,1,Software Engineer,Startup,107691
+29,,2,63.0,6,Data Scientist,MNC,167793
+23,High School,26,42.0,5,HR,MNC,150569
+41,PhD,15,64.0,0,HR,Government,160923
+46,Master,14,58.0,3,Manager,Startup,172382
+28,Bachelor,34,72.0,2,Software Engineer,Startup,210256
+22,Bachelor,11,41.0,2,DevOps Engineer,MNC,141374
+26,High School,25,54.0,6,Data Analyst,Startup,164652
+48,Master,33,61.0,9,DevOps Engineer,Government,246628
+49,Bachelor,22,99.0,3,HR,Government,183830
+46,PhD,30,49.0,7,DevOps Engineer,Startup,220292
+45,Bachelor,19,57.0,8,HR,Startup,154712
+32,High School,11,61.0,2,DevOps Engineer,Government,144265
+25,High School,22,85.0,4,HR,Startup,160818
+54,Master,3,88.0,3,HR,MNC,152159
+57,High School,22,66.0,9,Manager,Startup,189888
+35,Bachelor,0,52.0,5,Software Engineer,MNC,116867
+56,Bachelor,24,72.0,9,HR,Startup,186937
+35,Bachelor,1,44.0,3,Data Analyst,Startup,89722
+43,Bachelor,29,65.0,7,Data Analyst,Government,203604
+26,Master,2,52.0,2,Data Scientist,MNC,137121
+41,PhD,20,66.0,4,HR,Government,187403
+43,PhD,24,96.0,0,HR,Startup,199741
+36,Master,19,53.0,5,HR,Government,164469
+35,High School,21,63.0,4,DevOps Engineer,Startup,173385
+45,PhD,20,42.0,7,HR,Startup,179079
+56,High School,32,86.0,8,HR,Startup,206742
+31,PhD,14,90.0,7,Data Analyst,MNC,216870
+35,High School,14,88.0,7,Software Engineer,MNC,187061
+24,Master,24,69.0,2,Software Engineer,MNC,200338
+41,Bachelor,20,74.0,3,Data Scientist,Government,193052
+33,High School,23,87.0,3,Data Analyst,Startup,172170
+42,Bachelor,4,53.0,4,HR,Government,107849
+39,High School,5,51.0,8,Software Engineer,Government,134017
+54,High School,22,67.0,8,Manager,Startup,188403
+34,High School,3,83.0,9,Manager,Government,165455
+24,High School,26,68.0,0,Manager,Startup,185978
+47,High School,17,82.0,7,HR,Startup,162229
+49,Bachelor,20,56.0,0,HR,Startup,140301
+48,High School,27,79.0,1,Data Scientist,Startup,197583
+55,Bachelor,34,88.0,6,Data Scientist,Government,246749
+28,Master,21,60.0,7,Data Scientist,Government,210119
+36,PhD,22,96.0,0,DevOps Engineer,Government,230123
+56,High School,2,62.0,2,Manager,MNC,139385
+50,PhD,9,59.0,6,HR,Government,166826
+38,Bachelor,24,50.0,8,Manager,Government,202428
+22,Master,7,96.0,7,Data Scientist,MNC,199819
+33,Master,10,96.0,7,HR,Startup,167324
+24,Master,4,73.0,8,Data Analyst,Startup,158879
+46,PhD,28,49.0,9,Software Engineer,Startup,227675
+45,Bachelor,4,49.0,2,Software Engineer,MNC,115749
+50,High School,8,82.0,7,Data Scientist,Government,175163
+31,High School,1,99.0,0,Manager,Government,151834
+27,Bachelor,0,45.0,7,Data Analyst,Government,111942
+51,PhD,29,75.0,6,HR,Government,225643
+30,High School,10,63.0,7,Manager,MNC,162401
+59,Bachelor,27,51.0,0,Data Scientist,Government,180910
+33,High School,11,82.0,5,Manager,Startup,165692
+51,Master,25,94.0,6,Data Scientist,MNC,240959
+27,High School,12,62.0,4,DevOps Engineer,MNC,152616
+56,PhD,7,66.0,4,Software Engineer,Startup,167412
+40,Bachelor,27,97.0,6,Software Engineer,Startup,213305
+24,PhD,29,96.0,2,Manager,Government,261466
+27,Bachelor,8,84.0,5,Data Analyst,Startup,144799
+21,Master,30,76.0,6,HR,MNC,223183
+33,Bachelor,20,45.0,0,Data Scientist,MNC,163788
+42,High School,33,40.0,1,HR,MNC,164766
+41,High School,30,45.0,3,Software Engineer,Government,181086
+42,Master,24,89.0,7,Data Analyst,Government,204867
+48,Bachelor,11,61.0,9,Data Analyst,Startup,157310
+29,Master,0,80.0,5,HR,Government,142082
+46,High School,21,63.0,0,Software Engineer,Government,147694
+29,PhD,0,64.0,9,HR,MNC,157935
+35,Master,0,54.0,4,Manager,MNC,153308
+30,PhD,20,65.0,6,Data Analyst,Startup,195845
+44,PhD,14,47.0,5,Data Analyst,MNC,172584
+28,Bachelor,16,90.0,8,Manager,Government,208191
+44,Master,21,63.0,7,Software Engineer,Startup,200442
+36,PhD,34,87.0,3,Data Analyst,Startup,232946
+46,,15,77.0,4,DevOps Engineer,MNC,203334
+47,,7,45.0,6,DevOps Engineer,MNC,151038
+57,Bachelor,16,93.0,7,DevOps Engineer,MNC,197454
+24,High School,16,74.0,4,Data Scientist,Startup,165273
+44,PhD,25,,8,Data Scientist,MNC,255994
+39,High School,12,40.0,9,Software Engineer,Government,137963
+56,PhD,16,99.0,3,Manager,Startup,227803
+59,High School,16,85.0,3,HR,MNC,151542
+30,Bachelor,13,75.0,7,Software Engineer,Government,172973
+45,Master,5,97.0,0,HR,Government,142539
+38,Bachelor,34,51.0,7,Software Engineer,MNC,217926
+39,High School,13,77.0,4,Data Scientist,Government,165330
+56,High School,7,50.0,0,DevOps Engineer,Startup,117262
+30,Master,14,51.0,3,Manager,Startup,177816
+53,PhD,26,81.0,1,Data Scientist,Government,225040
+25,High School,12,89.0,3,Manager,Startup,166411
+55,High School,30,78.0,7,HR,MNC,193681
+54,High School,34,46.0,4,Software Engineer,Government,187002
+53,Master,5,50.0,0,Data Analyst,Startup,111962
+41,,4,75.0,6,Data Analyst,MNC,151080
+37,High School,21,91.0,0,Manager,MNC,204113
+42,Master,22,70.0,8,DevOps Engineer,Startup,215465
+57,High School,24,72.0,2,DevOps Engineer,Government,179394
+35,PhD,33,52.0,2,Manager,MNC,233431
+55,Master,25,57.0,5,Data Scientist,MNC,211743
+48,High School,4,80.0,9,Data Analyst,MNC,138716
+27,Master,25,97.0,5,Data Scientist,MNC,236629
+52,High School,19,95.0,5,HR,Government,180588
+31,Bachelor,5,63.0,0,Data Analyst,Startup,113621
+30,High School,5,48.0,4,HR,Startup,99401
+29,Master,17,70.0,5,Software Engineer,Startup,175594
+34,PhD,3,94.0,7,Data Scientist,MNC,203824
+33,PhD,16,80.0,0,Manager,Government,206041
+45,PhD,13,49.0,4,Data Analyst,Startup,156903
+22,High School,13,99.0,2,Data Scientist,Government,186202
+55,Bachelor,12,41.0,1,Manager,Startup,146790
+27,High School,6,77.0,7,Software Engineer,MNC,160815
+41,PhD,14,54.0,6,Data Analyst,Startup,169509
+38,Master,18,42.0,9,HR,MNC,162838
+23,PhD,34,82.0,6,Software Engineer,MNC,268836
+59,Master,16,70.0,4,DevOps Engineer,Startup,186029
+31,Bachelor,34,45.0,8,Manager,Government,220017
+59,Master,18,42.0,4,Data Analyst,MNC,170096
+44,High School,19,95.0,1,Data Analyst,Government,167905
+39,High School,34,50.0,2,Software Engineer,Startup,172244
+24,High School,31,54.0,3,Data Analyst,MNC,171716
+46,Master,23,84.0,4,Manager,Government,228593
+58,High School,16,91.0,2,Software Engineer,MNC,171190
+52,High School,6,67.0,6,HR,Startup,121583
+59,High School,0,49.0,4,Software Engineer,MNC,107139
+56,Bachelor,34,77.0,4,Software Engineer,Startup,220750
+57,Master,31,86.0,5,HR,Government,219870
+53,Master,12,96.0,6,DevOps Engineer,MNC,207167
+56,PhD,5,89.0,9,Manager,Government,206809
+23,Master,13,89.0,9,DevOps Engineer,Startup,209766
+29,Bachelor,14,46.0,7,DevOps Engineer,Startup,162512
+28,Master,3,54.0,8,DevOps Engineer,Government,153224
+53,Bachelor,15,57.0,3,Data Scientist,Government,172321
+26,Bachelor,27,57.0,4,DevOps Engineer,Startup,198211
+59,Master,15,91.0,4,Data Scientist,Government,198921
+24,PhD,3,80.0,7,HR,Startup,157923
+33,High School,25,63.0,8,Manager,Government,200530
+22,High School,27,41.0,6,DevOps Engineer,Startup,168553
+25,Master,31,79.0,4,Data Analyst,Startup,207632
+47,Master,1,59.0,2,HR,MNC,126586
+52,Bachelor,30,73.0,0,Data Scientist,Startup,207548
+41,Master,2,82.0,8,Manager,Startup,185021
+28,Bachelor,7,65.0,4,Software Engineer,MNC,147770
+58,PhD,23,46.0,8,Manager,MNC,235256
+28,Master,14,77.0,9,Manager,Government,215994
+23,High School,30,69.0,3,DevOps Engineer,Government,195235
+23,High School,8,81.0,4,DevOps Engineer,Startup,141375
+42,Master,1,44.0,3,Data Scientist,Government,133540
+26,Bachelor,7,50.0,1,Data Scientist,Government,129505
+22,High School,6,40.0,0,DevOps Engineer,Startup,99544
+43,Bachelor,15,73.0,7,DevOps Engineer,MNC,196932
+22,Master,34,95.0,3,Data Analyst,MNC,239888
+58,Master,29,40.0,4,Data Analyst,Startup,182459
+37,High School,9,58.0,5,HR,Startup,109794
+55,Master,17,41.0,7,DevOps Engineer,Startup,176953
+54,PhD,4,60.0,7,Software Engineer,Startup,169526
+43,PhD,28,59.0,6,Data Analyst,Startup,205301
+50,High School,33,62.0,3,Data Scientist,Startup,196552
+28,PhD,22,60.0,5,Manager,Government,226985
+42,Bachelor,4,63.0,3,HR,Government,112681
+56,High School,29,43.0,6,Data Analyst,Government,165687
+25,High School,5,51.0,0,Manager,MNC,119660
+33,Bachelor,3,61.0,4,Manager,Startup,136087
+49,PhD,28,59.0,9,Data Analyst,Startup,223178
+51,PhD,22,57.0,9,Software Engineer,Government,215384
+36,PhD,5,40.0,3,Software Engineer,MNC,149335
+50,High School,31,69.0,6,HR,Government,194443
+36,High School,17,72.0,8,Software Engineer,Startup,172810
+32,PhD,14,63.0,4,HR,Startup,173321
+37,Master,31,53.0,3,Data Scientist,Government,209446
+36,PhD,8,75.0,8,Data Analyst,Government,179963
+32,Bachelor,9,44.0,4,Manager,Startup,148636
+28,High School,19,50.0,8,HR,Government,143869
+40,Bachelor,5,63.0,7,Software Engineer,Startup,146592
+23,Bachelor,2,99.0,3,HR,Government,147858
+36,High School,10,70.0,6,DevOps Engineer,MNC,152882
+50,Master,16,94.0,4,HR,Startup,170971
+43,PhD,31,52.0,9,Software Engineer,MNC,232940
+48,Bachelor,3,55.0,3,DevOps Engineer,Government,126372
+25,High School,3,63.0,4,DevOps Engineer,MNC,131162
+40,Bachelor,16,52.0,4,Software Engineer,Government,160176
+21,PhD,18,63.0,8,DevOps Engineer,MNC,214000
+50,Master,4,93.0,8,Data Analyst,MNC,172065
+41,Master,31,65.0,5,Manager,MNC,236465
+40,Master,21,41.0,3,Data Analyst,Startup,145789
+26,High School,5,55.0,1,Data Analyst,MNC,104063
+42,High School,34,77.0,2,Software Engineer,Government,213274
+38,Master,21,85.0,1,Software Engineer,Government,201240
+28,PhD,0,40.0,4,Manager,Startup,136258
+59,PhD,19,88.0,5,HR,Startup,202698
+52,High School,21,50.0,4,Data Analyst,Government,142366
+53,Master,10,90.0,1,DevOps Engineer,MNC,187955
+36,PhD,12,74.0,4,Manager,Government,202536
+32,PhD,2,82.0,8,Data Analyst,Startup,169104
+58,PhD,8,68.0,3,HR,Startup,142237
+54,High School,11,76.0,9,DevOps Engineer,Government,167582
+34,Master,22,56.0,1,Data Analyst,MNC,178028
+56,Bachelor,13,97.0,2,Data Scientist,MNC,185072
+53,Master,32,93.0,2,Manager,Startup,243429
+43,Master,17,78.0,8,Software Engineer,Government,206067
+22,High School,8,81.0,3,Data Analyst,Government,130411
+41,PhD,22,67.0,0,DevOps Engineer,Startup,200135
+22,PhD,9,68.0,0,DevOps Engineer,Government,160259
+47,High School,18,82.0,6,Manager,Startup,190544
+29,High School,4,,6,Manager,MNC,142193
+21,High School,22,91.0,1,DevOps Engineer,MNC,191623
+31,High School,29,49.0,8,DevOps Engineer,Government,191738
+23,High School,24,98.0,8,DevOps Engineer,MNC,223954
+43,Bachelor,27,81.0,4,Data Analyst,MNC,201124
+46,Master,33,53.0,2,DevOps Engineer,Startup,196180
+24,Master,24,51.0,2,Software Engineer,Startup,171174
+38,Master,9,86.0,2,DevOps Engineer,Government,173641
+26,PhD,13,81.0,5,Software Engineer,Startup,191273
+55,Bachelor,29,69.0,3,Data Analyst,Government,189462
+42,Master,24,71.0,7,Manager,Government,220759
+35,PhD,13,71.0,4,Software Engineer,Startup,187657
+42,Bachelor,34,81.0,0,Data Analyst,MNC,201028
+57,Bachelor,33,71.0,8,DevOps Engineer,MNC,243978
+32,PhD,9,65.0,0,Data Analyst,MNC,148921
+58,Bachelor,34,,5,DevOps Engineer,MNC,235773
+38,PhD,10,40.0,0,Data Analyst,Government,132462
+55,Master,10,95.0,2,Manager,MNC,207318
+50,PhD,20,97.0,9,Software Engineer,Government,236633
+44,Bachelor,20,81.0,4,Manager,Startup,200474
+50,Master,21,41.0,9,Data Scientist,Startup,192510
+34,Master,6,,6,DevOps Engineer,Government,149065
+26,High School,16,69.0,9,Software Engineer,MNC,187408
+23,High School,1,95.0,7,Manager,Government,155711
+36,Bachelor,11,78.0,8,Software Engineer,MNC,178810
+27,PhD,17,46.0,5,Data Scientist,MNC,203146
+34,PhD,10,91.0,8,HR,Government,196094
+29,Bachelor,15,66.0,7,DevOps Engineer,Government,170090
+35,Master,17,48.0,8,DevOps Engineer,MNC,189362
+41,Bachelor,34,61.0,9,Data Analyst,Government,209187
+55,,25,73.0,3,DevOps Engineer,MNC,203220
+22,Master,15,85.0,8,DevOps Engineer,Government,209570
+47,PhD,5,88.0,6,Manager,Startup,193166
+22,Bachelor,11,40.0,4,DevOps Engineer,MNC,141994
+55,PhD,12,48.0,4,DevOps Engineer,Startup,164172
+38,Bachelor,3,59.0,0,Data Scientist,Government,131470
+34,Master,1,92.0,1,Data Scientist,Startup,160839
+40,Master,25,58.0,9,Software Engineer,Government,216360
+38,High School,26,75.0,2,Software Engineer,MNC,188749
+30,Master,26,,7,DevOps Engineer,Government,232611
+45,High School,14,79.0,5,DevOps Engineer,Government,171371
+22,Bachelor,7,84.0,9,Data Analyst,MNC,165073
+45,PhD,6,43.0,4,Software Engineer,Government,149005
+53,Master,11,48.0,0,Manager,MNC,154742
+56,Master,12,80.0,8,DevOps Engineer,Government,191338
+51,Master,16,61.0,2,Manager,MNC,195046
+34,Bachelor,16,57.0,2,DevOps Engineer,Startup,164893
+21,High School,20,51.0,1,Manager,Government,163322
+36,,7,81.0,3,HR,Government,143855
+23,,4,82.0,1,Manager,Government,180505
+55,Bachelor,25,78.0,8,Software Engineer,MNC,212340
+26,PhD,15,48.0,9,DevOps Engineer,Government,202897
+45,Master,27,45.0,6,Software Engineer,MNC,199806
+33,PhD,28,58.0,7,Manager,Government,232357
+54,PhD,11,87.0,2,Data Scientist,Startup,190620
+28,High School,29,86.0,5,Data Scientist,Government,217804
+41,PhD,22,46.0,9,Data Scientist,Startup,218516
+54,PhD,15,55.0,5,DevOps Engineer,MNC,195326
+24,Bachelor,13,44.0,0,Data Analyst,Startup,117256
+45,Master,9,55.0,5,HR,Government,150109
+35,Bachelor,6,40.0,2,Manager,Government,143752
+24,Bachelor,28,,2,Data Analyst,MNC,197497
+32,Master,2,76.0,2,Data Scientist,Government,154064
+52,Master,14,78.0,9,Manager,Government,210374
+52,PhD,18,58.0,9,Data Analyst,MNC,206639
+48,PhD,12,93.0,7,Software Engineer,MNC,207921
+33,High School,20,76.0,4,Data Scientist,Startup,187769
+51,Bachelor,26,56.0,3,Data Analyst,MNC,180917
+34,Master,28,65.0,8,DevOps Engineer,Government,232521
+40,PhD,19,61.0,8,Software Engineer,MNC,214572
+38,Master,24,47.0,0,Data Scientist,Government,181280
+49,PhD,5,72.0,1,HR,Startup,132646
+26,High School,1,41.0,7,Data Scientist,MNC,122997
+52,High School,21,69.0,4,DevOps Engineer,Government,184083
+49,Master,31,86.0,6,HR,MNC,223789
+22,High School,15,59.0,0,HR,MNC,137804
+43,Master,17,99.0,9,HR,MNC,210937
+39,PhD,4,57.0,4,Manager,MNC,174497
+51,Bachelor,29,82.0,2,Manager,Startup,212007
+25,High School,18,96.0,9,HR,Government,176993
+39,PhD,22,49.0,1,Software Engineer,MNC,193438
+54,Bachelor,33,63.0,1,HR,Government,177100
+30,Bachelor,12,95.0,8,Data Analyst,Startup,178638
+45,Bachelor,28,43.0,3,HR,Government,162461
+22,PhD,21,76.0,3,Manager,Government,219625
+31,PhD,8,43.0,6,Manager,Startup,180564
+51,Master,18,52.0,9,Data Analyst,MNC,177853
+35,Bachelor,5,64.0,9,Data Analyst,Government,152932
+29,Bachelor,14,52.0,1,Data Scientist,Government,159179
+43,Bachelor,19,57.0,2,Software Engineer,MNC,170500
+39,Master,8,98.0,2,Software Engineer,MNC,184762
+29,Bachelor,31,63.0,5,Software Engineer,Government,197925
+55,PhD,3,41.0,2,DevOps Engineer,Startup,138569
+41,Bachelor,17,87.0,4,Manager,MNC,205740
+29,High School,4,72.0,3,Software Engineer,MNC,137808
+48,PhD,19,97.0,2,Data Scientist,Startup,229472
+27,Master,22,58.0,7,Data Scientist,Government,215969
+36,Bachelor,10,,9,Software Engineer,MNC,169060
+36,High School,21,67.0,2,Data Analyst,Government,146861
+53,Master,3,74.0,5,Data Scientist,Government,163894
+24,Master,28,96.0,6,Data Analyst,Government,215272
+24,PhD,33,78.0,6,Manager,Startup,256130
+59,Master,12,49.0,1,DevOps Engineer,Government,161480
+37,,8,40.0,2,Data Scientist,Government,141717
+57,Master,30,81.0,9,Data Analyst,MNC,237031
+59,Master,6,60.0,9,Software Engineer,MNC,172936
+49,Bachelor,3,48.0,3,Manager,Startup,138977
+56,Bachelor,18,99.0,6,HR,Startup,175876
+58,Bachelor,29,86.0,1,HR,MNC,193800
+59,Bachelor,30,54.0,2,Software Engineer,MNC,197412
+57,High School,34,74.0,6,Manager,Startup,220528
+55,Bachelor,20,96.0,6,Manager,Government,210232
+27,Master,30,44.0,9,Manager,Startup,223686
+47,Bachelor,18,80.0,2,Manager,Government,196078
+48,Bachelor,30,97.0,0,HR,MNC,197273
+42,PhD,31,61.0,2,Data Analyst,MNC,220668
+34,Master,1,80.0,4,Manager,MNC,173537
+27,Bachelor,9,62.0,6,Data Analyst,Government,153882
+57,Bachelor,1,46.0,3,Manager,Startup,128161
+42,Bachelor,1,95.0,0,Data Scientist,Government,141392
+25,High School,23,62.0,5,DevOps Engineer,Startup,176963
+22,Bachelor,16,83.0,1,Data Scientist,Startup,185161
+47,PhD,31,64.0,2,DevOps Engineer,Startup,231085
+41,Master,15,66.0,3,Data Scientist,MNC,178517
+58,Master,15,80.0,5,Manager,Startup,194703
+35,Bachelor,30,45.0,5,Data Analyst,MNC,178938
+41,Bachelor,23,94.0,6,DevOps Engineer,Startup,218894
+30,Bachelor,0,73.0,4,HR,Startup,109741
+43,Master,10,48.0,6,Software Engineer,MNC,168583
+59,Master,20,99.0,1,DevOps Engineer,MNC,216326
+25,High School,3,88.0,0,DevOps Engineer,Government,142330
+21,PhD,6,72.0,9,HR,Startup,175671
+33,High School,25,90.0,7,Manager,MNC,233563
+41,PhD,11,99.0,0,Data Scientist,Government,211436
+46,High School,30,45.0,1,Data Scientist,Government,171335
+41,Master,16,76.0,9,Data Analyst,MNC,197422
+38,High School,32,70.0,5,Manager,Startup,206177
+57,PhD,10,,0,HR,Government,154242
+52,Bachelor,27,80.0,9,Manager,Startup,220648
+56,PhD,31,68.0,2,Manager,Startup,243979
+37,Bachelor,0,97.0,6,Data Scientist,Government,169005
+55,Master,27,53.0,7,HR,MNC,187344
+31,PhD,6,75.0,3,Software Engineer,Startup,158146
+41,High School,1,75.0,2,DevOps Engineer,MNC,140379
+46,PhD,23,92.0,0,Data Scientist,Government,226764
+24,Bachelor,3,54.0,8,HR,Startup,122966
+54,Master,18,47.0,9,Data Analyst,MNC,173567
+38,High School,25,65.0,5,DevOps Engineer,MNC,199960
+55,PhD,10,75.0,5,DevOps Engineer,Startup,188787
+49,Bachelor,10,87.0,8,Data Scientist,MNC,201202
+49,High School,2,60.0,0,Data Analyst,MNC,105010
+58,Master,11,67.0,5,Data Scientist,Government,174179
+41,High School,2,43.0,4,Manager,Government,120287
+33,Master,26,55.0,5,HR,MNC,191529
+37,High School,1,61.0,7,Data Analyst,MNC,114172
+29,PhD,15,51.0,4,DevOps Engineer,Startup,188629
+21,Bachelor,1,55.0,1,Data Scientist,Government,125140
+22,PhD,29,90.0,1,DevOps Engineer,Startup,241511
+49,PhD,19,79.0,9,Data Analyst,MNC,224647
+53,Master,27,77.0,4,DevOps Engineer,Startup,217823
+30,Master,24,81.0,2,Data Scientist,MNC,209188
+41,Master,31,76.0,9,Data Scientist,Government,246827
+48,PhD,9,68.0,2,Software Engineer,Government,181047
+31,High School,32,57.0,7,DevOps Engineer,MNC,210806
+54,High School,12,49.0,6,Software Engineer,Government,134102
+28,PhD,15,81.0,0,Software Engineer,MNC,199827
+42,PhD,21,78.0,4,DevOps Engineer,Startup,224075
+28,Bachelor,19,57.0,8,Data Analyst,MNC,169920
+35,Master,26,40.0,3,Manager,Startup,187896
+37,Master,15,78.0,0,Data Scientist,MNC,192344
+43,PhD,33,60.0,7,HR,Government,218811
+44,PhD,31,40.0,4,Software Engineer,MNC,226189
+39,High School,25,54.0,1,Data Analyst,MNC,166651
+25,PhD,24,43.0,0,DevOps Engineer,MNC,193109
+52,High School,1,99.0,2,Data Analyst,Government,129706
+21,PhD,11,59.0,8,Data Analyst,MNC,185027
+43,Bachelor,8,49.0,0,DevOps Engineer,Government,124762
+57,Bachelor,11,62.0,3,HR,MNC,142960
+28,High School,25,80.0,7,DevOps Engineer,Startup,192958
+33,Master,8,73.0,7,HR,MNC,155830
+28,Bachelor,9,99.0,9,DevOps Engineer,Startup,186347
+43,High School,31,85.0,7,Software Engineer,Government,208027
+21,PhD,33,87.0,9,HR,Government,255908
+44,PhD,19,72.0,7,Software Engineer,MNC,228775
+55,High School,1,73.0,3,HR,Government,104023
+44,Master,0,78.0,7,HR,MNC,148053
+37,High School,23,49.0,8,DevOps Engineer,Government,188357
+25,High School,26,93.0,6,HR,Startup,194822
+40,Bachelor,1,59.0,1,Software Engineer,Government,116060
+41,High School,30,40.0,8,DevOps Engineer,Startup,192861
+51,High School,13,52.0,7,Data Scientist,MNC,172125
+56,PhD,1,40.0,4,Software Engineer,MNC,144976
+31,Bachelor,28,44.0,2,Data Scientist,MNC,194738
+35,PhD,14,55.0,6,Data Analyst,Startup,178177
+39,PhD,11,54.0,1,DevOps Engineer,MNC,173349
+27,Master,27,88.0,2,Data Analyst,MNC,218131
+48,Master,19,67.0,8,DevOps Engineer,Startup,194014
+25,Bachelor,23,70.0,3,DevOps Engineer,Government,192183
+25,,20,62.0,3,Software Engineer,MNC,179087
+50,Master,9,87.0,2,Data Scientist,Government,173201
+52,Master,13,84.0,4,DevOps Engineer,Government,186580
+28,Master,17,82.0,2,Data Scientist,MNC,198276
+30,Master,23,56.0,8,DevOps Engineer,MNC,210848
+58,Master,13,88.0,2,Data Scientist,Startup,189160
+52,PhD,33,73.0,1,Data Analyst,Startup,223883
+48,Bachelor,11,,4,Software Engineer,MNC,160761
+37,PhD,21,53.0,5,DevOps Engineer,Government,196344
+51,PhD,5,50.0,0,Manager,Startup,161137
+28,High School,21,67.0,5,Data Scientist,Startup,181253
+45,PhD,13,81.0,9,Data Scientist,MNC,230863
+29,Master,15,71.0,2,Manager,MNC,184833
+22,Master,24,74.0,3,Software Engineer,MNC,203949
+35,High School,31,98.0,5,Data Scientist,MNC,240771
+23,High School,32,70.0,7,Software Engineer,Startup,199701
+56,High School,19,56.0,8,Data Scientist,Startup,179049
+24,High School,17,86.0,5,HR,Startup,148713
+34,High School,2,48.0,6,Data Scientist,Government,132879
+45,PhD,22,49.0,4,HR,Startup,169599
+30,High School,31,47.0,8,DevOps Engineer,Startup,185906
+41,PhD,15,60.0,3,Software Engineer,MNC,183303
+56,Bachelor,4,52.0,9,Data Scientist,Startup,155761
+32,High School,3,98.0,5,Data Analyst,Startup,144301
+47,High School,20,89.0,4,Data Analyst,Startup,174060
+22,PhD,13,44.0,0,Manager,MNC,179126
+33,Bachelor,30,45.0,4,Data Analyst,Startup,177321
+52,PhD,13,69.0,4,HR,Startup,170807
+51,PhD,5,70.0,8,Data Analyst,Government,176286
+36,High School,11,56.0,0,Data Analyst,Government,115840
+52,Master,15,50.0,4,Data Analyst,Government,151298
+52,Master,16,59.0,6,Data Scientist,Government,196157
+54,PhD,22,87.0,5,Manager,MNC,236467
+31,High School,13,48.0,5,Software Engineer,Government,142724
+30,Bachelor,6,41.0,6,Manager,Startup,143915
+35,Master,31,76.0,5,HR,Government,208666
+37,Bachelor,14,40.0,4,Data Scientist,MNC,168642
+38,Master,16,43.0,9,DevOps Engineer,Government,180220
+29,High School,33,75.0,4,Data Scientist,Government,223279
+45,,4,93.0,8,Data Analyst,MNC,190436
+34,Bachelor,26,97.0,7,Data Analyst,MNC,213210
+45,Bachelor,22,64.0,9,HR,MNC,189987
+42,PhD,13,42.0,3,DevOps Engineer,MNC,179989
+50,Bachelor,14,48.0,3,Data Scientist,MNC,154582
+40,Master,32,61.0,9,DevOps Engineer,MNC,230796
+41,PhD,30,62.0,4,Software Engineer,Startup,223982
+52,Master,34,51.0,2,Manager,Government,231654
+41,Master,16,49.0,7,Data Scientist,Government,181797
+55,High School,27,73.0,6,DevOps Engineer,MNC,210145
+52,Master,18,82.0,4,Software Engineer,MNC,200982
+50,High School,22,49.0,9,Software Engineer,Startup,176678
+59,Bachelor,31,69.0,2,Manager,Startup,212664
+32,Bachelor,12,61.0,4,Software Engineer,MNC,168503
+38,High School,19,45.0,2,HR,Startup,119279
+41,Master,34,89.0,9,Software Engineer,Startup,256357
+33,PhD,4,41.0,4,DevOps Engineer,MNC,164886
+41,PhD,8,69.0,0,HR,MNC,150612
+28,High School,28,41.0,5,Software Engineer,MNC,184140
+27,Bachelor,5,71.0,9,Data Analyst,MNC,146569
+43,Bachelor,24,81.0,3,Software Engineer,Government,201892
+52,PhD,30,55.0,3,HR,Government,209950
+31,,21,51.0,7,Software Engineer,MNC,169632
+42,PhD,1,40.0,1,Software Engineer,Startup,114187
+42,Master,4,92.0,3,Software Engineer,MNC,171575
+45,Master,26,47.0,1,HR,Government,155968
+42,High School,24,87.0,0,Software Engineer,Startup,176195
+48,High School,7,89.0,9,Manager,Government,178574
+49,Master,0,52.0,2,DevOps Engineer,MNC,139203
+33,Bachelor,19,54.0,7,Manager,Government,193490
+38,High School,22,92.0,5,HR,Government,180189
+22,Master,31,83.0,6,Data Analyst,Government,220491
+49,Master,10,47.0,1,Manager,Startup,151216
+41,Bachelor,23,49.0,5,DevOps Engineer,Government,172239
+35,Bachelor,10,85.0,7,Data Scientist,Startup,188092
+47,Bachelor,28,44.0,7,DevOps Engineer,MNC,210747
+51,Bachelor,25,89.0,3,Manager,MNC,221266
+35,PhD,15,58.0,5,Data Scientist,Government,205737
+43,Bachelor,34,86.0,4,HR,Startup,200409
+44,PhD,19,77.0,8,DevOps Engineer,MNC,223949
+33,High School,2,98.0,7,Data Analyst,Startup,146598
+42,Master,0,50.0,1,Data Scientist,Startup,116078
+57,,0,92.0,6,Data Scientist,Government,180890
+53,High School,16,82.0,6,DevOps Engineer,Government,173943
+23,High School,1,59.0,0,Manager,Startup,122084
+39,PhD,28,59.0,0,Data Scientist,Startup,208051
+43,High School,19,60.0,3,HR,Government,148406
+49,High School,5,57.0,4,DevOps Engineer,Startup,132496
+50,PhD,7,96.0,3,HR,Government,178125
+59,High School,28,89.0,6,DevOps Engineer,Startup,219013
+45,Bachelor,32,49.0,2,HR,Government,177111
+57,,2,73.0,6,Manager,Startup,161678
+28,Master,34,65.0,7,DevOps Engineer,Government,233281
+36,High School,4,69.0,5,Data Analyst,Startup,126062
+28,Master,26,48.0,5,Manager,MNC,219163
+21,Bachelor,11,85.0,7,HR,MNC,172797
+25,Bachelor,19,90.0,7,DevOps Engineer,Startup,208633
+23,Bachelor,19,70.0,6,Manager,MNC,194800
+21,High School,8,81.0,5,HR,Startup,126395
+24,High School,3,94.0,5,Software Engineer,Startup,145474
+55,Bachelor,18,43.0,9,Software Engineer,MNC,183322
+52,Master,26,45.0,5,Data Scientist,Startup,203161
+54,Master,12,53.0,7,Data Analyst,Government,158850
+45,PhD,12,43.0,0,Software Engineer,Startup,147407
+30,Bachelor,21,65.0,4,HR,Startup,168545
+41,Master,27,86.0,2,Manager,MNC,237518
+59,Bachelor,21,87.0,7,DevOps Engineer,Government,200789
+47,Master,18,78.0,5,Manager,Startup,203482
+47,PhD,7,56.0,1,Data Scientist,Startup,169552
+22,PhD,7,58.0,6,Manager,Startup,181140
+33,Bachelor,25,90.0,6,Software Engineer,Startup,204641
+29,,25,,4,Manager,Startup,229210
+56,High School,22,45.0,7,Software Engineer,Startup,158469
+42,PhD,12,68.0,4,Software Engineer,Government,187762
+46,Bachelor,27,50.0,0,Data Analyst,Government,161631
+32,Bachelor,8,55.0,8,Data Scientist,Startup,152537
+37,Master,19,69.0,3,HR,Startup,169493
+34,Bachelor,18,64.0,1,Software Engineer,MNC,160251
+34,PhD,11,79.0,3,DevOps Engineer,Government,181824
+54,Bachelor,14,50.0,8,Data Scientist,Government,169962
+40,Bachelor,30,46.0,1,HR,Startup,152756
+31,High School,13,65.0,3,DevOps Engineer,Government,158444
+36,High School,10,,1,Manager,Government,167175
+51,PhD,25,61.0,4,Data Scientist,MNC,233706
+26,Master,26,64.0,2,DevOps Engineer,MNC,201416
+39,High School,10,58.0,9,Data Scientist,Government,162894
+57,Master,33,70.0,1,Data Scientist,Government,232070
+24,PhD,18,65.0,8,Manager,Government,228510
+24,High School,5,81.0,4,Manager,Startup,154594
+40,Master,27,80.0,9,Data Scientist,MNC,245422
+30,High School,0,75.0,4,DevOps Engineer,Startup,118589
+44,PhD,34,62.0,0,Data Analyst,MNC,222848
+55,PhD,7,86.0,5,Software Engineer,MNC,185172
+46,High School,6,52.0,6,Manager,MNC,149869
+57,Master,10,64.0,0,Data Analyst,Government,137250
+58,Bachelor,3,41.0,8,Manager,MNC,143164
+41,Bachelor,24,41.0,7,Data Scientist,Startup,182804
+59,High School,11,55.0,7,Data Analyst,MNC,149694
+41,Master,25,48.0,6,DevOps Engineer,Startup,186312
+30,Bachelor,11,67.0,4,DevOps Engineer,MNC,165854
+58,PhD,23,52.0,2,HR,MNC,181692
+24,Master,15,74.0,8,Software Engineer,Government,192854
+40,Bachelor,12,80.0,6,Software Engineer,Startup,167703
+37,Master,24,52.0,9,Manager,MNC,226619
+27,High School,3,70.0,9,Software Engineer,MNC,153899
+24,Master,10,60.0,7,HR,Startup,156229
+49,Bachelor,31,71.0,5,DevOps Engineer,MNC,219860
+34,High School,6,93.0,4,Data Analyst,Government,133802
+23,Master,10,73.0,7,Data Analyst,Startup,168874
+44,PhD,27,47.0,2,DevOps Engineer,Government,213438
+57,Bachelor,22,98.0,6,Data Scientist,Startup,210871
+36,High School,22,80.0,1,DevOps Engineer,Startup,172955
+24,Master,27,,2,Data Analyst,Startup,209184
+44,PhD,25,41.0,1,Manager,MNC,210659
+54,Bachelor,24,77.0,4,HR,Startup,172574
+50,PhD,28,71.0,6,DevOps Engineer,Startup,240169
+38,Master,18,93.0,9,Data Scientist,Startup,217546
+39,Master,32,79.0,9,Manager,Government,249263
+51,High School,13,97.0,0,DevOps Engineer,Startup,160377
+39,PhD,13,67.0,9,Manager,MNC,221866
+39,High School,34,76.0,8,DevOps Engineer,Startup,217377
+42,Bachelor,29,80.0,0,Manager,Startup,209660
+44,High School,27,40.0,0,Software Engineer,Government,150072
+32,Bachelor,16,80.0,9,Manager,MNC,210543
+50,Master,2,49.0,7,Software Engineer,MNC,144207
+58,Master,15,,5,Data Analyst,MNC,199926
+51,PhD,29,43.0,5,Software Engineer,Startup,204110
+56,Bachelor,28,74.0,8,Manager,Startup,233021
+39,Master,14,,3,HR,MNC,141623
+56,PhD,24,86.0,7,HR,MNC,235537
+50,PhD,22,50.0,3,Data Analyst,Government,183537
+53,High School,24,53.0,1,Manager,MNC,180715
+38,PhD,6,77.0,7,Software Engineer,Startup,171332
+48,Master,21,51.0,6,HR,Startup,163855
+31,High School,16,84.0,3,DevOps Engineer,Startup,166231
+53,Bachelor,17,56.0,8,Data Scientist,Government,184030
+37,Bachelor,9,55.0,8,Manager,MNC,176385
+26,Master,9,74.0,7,DevOps Engineer,Startup,173911
+24,Master,6,41.0,0,DevOps Engineer,Government,132572
+40,High School,26,50.0,6,Manager,Government,199687
+47,High School,32,80.0,4,Data Scientist,Startup,205162
+35,Master,0,42.0,6,HR,Government,108886
+26,Master,33,68.0,8,Data Scientist,Government,238202
+34,Bachelor,3,57.0,1,Data Analyst,Startup,111348
+31,Bachelor,16,59.0,3,Software Engineer,Government,160718
+59,,3,86.0,3,Software Engineer,Startup,132868
+29,Master,25,53.0,1,DevOps Engineer,Startup,173015
+46,PhD,3,73.0,2,HR,Government,145505
+36,Master,0,88.0,7,Data Scientist,Startup,171032
+25,Master,6,93.0,8,DevOps Engineer,Startup,179343
+30,Bachelor,29,70.0,5,Manager,MNC,233033
+23,Master,8,97.0,9,DevOps Engineer,Startup,190799
+33,High School,34,79.0,1,Manager,MNC,214138
+50,Master,7,81.0,1,Manager,MNC,173344
+26,Master,23,97.0,6,Data Analyst,MNC,218288
+37,Master,18,57.0,7,Data Analyst,MNC,183431
+39,,26,69.0,7,Manager,Government,235235
+55,PhD,31,64.0,5,HR,Government,214766
+46,Master,13,58.0,9,Data Analyst,Startup,170195
+25,High School,17,47.0,7,Data Analyst,Startup,142593
+49,High School,27,67.0,0,Software Engineer,Startup,160720
+57,Master,28,47.0,8,DevOps Engineer,Government,215164
+40,Bachelor,15,70.0,0,Software Engineer,MNC,163727
+41,PhD,34,42.0,2,HR,Government,208307
+30,Master,30,42.0,8,Data Analyst,Government,193634
+25,Master,3,83.0,4,Data Analyst,Startup,144670
+56,Master,16,61.0,8,Data Scientist,Startup,187844
+26,Bachelor,25,56.0,8,HR,Startup,166252
+46,Bachelor,3,75.0,5,DevOps Engineer,MNC,161865
+24,Bachelor,29,56.0,0,DevOps Engineer,MNC,197669
+59,PhD,29,,9,DevOps Engineer,Government,227199
+59,High School,21,90.0,6,HR,MNC,188598
+55,PhD,10,48.0,5,Data Scientist,Startup,178400
+21,Bachelor,1,69.0,8,Data Scientist,MNC,159156
+44,High School,11,60.0,6,Software Engineer,MNC,155370
+56,High School,29,51.0,3,HR,MNC,169624
+26,Bachelor,17,76.0,6,HR,MNC,165682
+51,Bachelor,25,71.0,1,Data Scientist,Startup,198218
+40,PhD,6,50.0,5,Manager,Startup,167830
+44,Bachelor,0,59.0,5,Manager,Government,134297
+45,High School,25,74.0,1,Software Engineer,Government,184370
+56,Master,22,92.0,3,Manager,Government,225006
+41,Bachelor,25,86.0,7,Manager,MNC,225459
+50,Bachelor,5,85.0,7,Manager,MNC,180023
+44,PhD,5,50.0,7,Data Analyst,Startup,152392
+50,PhD,7,91.0,7,Software Engineer,Government,206064
+42,Bachelor,23,47.0,0,Data Scientist,Startup,170809
+48,High School,21,43.0,1,Manager,Government,160129
+27,High School,18,66.0,3,DevOps Engineer,Government,155314
+55,Master,17,83.0,8,Data Analyst,Government,196749
+48,Bachelor,30,79.0,2,Manager,MNC,233252
+34,PhD,29,77.0,5,Data Analyst,Government,232101
+30,High School,32,86.0,6,Software Engineer,Government,217945
+36,Master,9,69.0,7,DevOps Engineer,MNC,174489
+36,Bachelor,11,83.0,6,DevOps Engineer,Government,188324
+51,High School,29,87.0,2,DevOps Engineer,MNC,202388
+45,Bachelor,26,87.0,5,Manager,MNC,224051
+33,Bachelor,8,66.0,4,Data Analyst,Startup,134919
+26,High School,20,60.0,9,DevOps Engineer,MNC,194658
+29,High School,11,91.0,3,HR,MNC,159599
+56,High School,28,59.0,0,HR,MNC,160313
+40,Bachelor,32,99.0,6,Data Analyst,Government,223645
+38,Bachelor,14,43.0,7,Manager,Startup,159674
+41,Master,1,50.0,1,Manager,Government,133338
+24,PhD,17,52.0,6,Software Engineer,MNC,204892
+53,Bachelor,2,48.0,5,Software Engineer,MNC,135543
+47,PhD,6,43.0,4,DevOps Engineer,Startup,155429
+27,High School,17,51.0,3,Data Scientist,Startup,157023
+26,Bachelor,32,48.0,1,Software Engineer,MNC,187165
+35,Master,30,52.0,9,Manager,MNC,232835
+38,Master,10,87.0,5,Data Scientist,Government,186550
+52,PhD,3,65.0,4,Software Engineer,MNC,173265
+31,High School,17,77.0,1,Data Analyst,Government,146836
+40,PhD,3,81.0,9,HR,Startup,159908
+44,High School,33,52.0,6,Software Engineer,Government,201351
+35,Master,28,78.0,5,Software Engineer,MNC,216309
+27,PhD,23,67.0,8,Data Analyst,Government,213353
+41,Master,21,97.0,9,Manager,Government,234092
+46,Master,1,58.0,4,DevOps Engineer,Startup,140623
+34,High School,5,63.0,8,Data Analyst,Government,134922
+57,PhD,24,58.0,8,DevOps Engineer,MNC,229037
+41,PhD,20,88.0,0,Software Engineer,Government,196725
+38,Master,15,52.0,4,Manager,Government,183844
+25,Master,30,52.0,8,Data Scientist,Government,216599
+23,High School,13,97.0,6,Software Engineer,MNC,179492
+43,Bachelor,27,67.0,5,Data Analyst,Government,195775
+46,Bachelor,31,92.0,5,Data Scientist,MNC,234611
+57,Master,27,41.0,6,HR,Government,178382
+44,Bachelor,8,49.0,0,Data Scientist,Startup,125295
+39,Bachelor,21,61.0,3,Data Analyst,Startup,157382
+45,Bachelor,31,52.0,0,Data Scientist,Startup,184402
+41,Bachelor,4,97.0,5,Data Analyst,MNC,160820
+32,Master,22,48.0,3,Software Engineer,MNC,191482
+53,Bachelor,4,72.0,0,Manager,MNC,142965
+24,Bachelor,31,53.0,8,HR,Government,194389
+27,High School,9,87.0,3,Manager,MNC,167424
+42,Master,14,59.0,5,Manager,MNC,182331
+53,PhD,6,54.0,6,Manager,MNC,177041
+39,Bachelor,3,44.0,5,HR,Startup,110849
+33,PhD,34,89.0,8,Data Scientist,Government,275770
+31,PhD,25,71.0,3,HR,Startup,202477
+30,Bachelor,11,67.0,4,DevOps Engineer,MNC,165854
+45,Master,5,97.0,0,HR,Government,142539
+38,High School,22,92.0,5,HR,Government,180189
+49,High School,23,98.0,1,Data Analyst,Startup,173711
+45,Bachelor,19,57.0,8,HR,Startup,154712
+53,High School,3,76.0,9,DevOps Engineer,MNC,164869
+29,High School,4,72.0,3,Software Engineer,MNC,137808
+33,Master,33,90.0,6,Data Scientist,Startup,255889
+32,PhD,34,74.0,5,HR,Government,237881
+26,Bachelor,30,80.0,7,Manager,MNC,251646
+38,High School,6,53.0,2,Data Analyst,MNC,120433
+30,Master,20,92.0,7,Software Engineer,Government,210550
+59,High School,0,49.0,4,Software Engineer,MNC,107139
+22,Bachelor,34,80.0,5,Software Engineer,MNC,238833
+23,Master,2,46.0,8,Software Engineer,Startup,131028
+34,High School,8,41.0,7,Manager,Government,154275
+30,Bachelor,12,90.0,9,Software Engineer,Startup,178587
